@@ -6,11 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/redey/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Maps/L_Playground.umap",
-				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/Harley/general.umap",
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/Harley/level.umap",
 				"C:/Users/redey/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Harley/level.umap",
 				"C:/Users/redey/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/Box_0A5F6456.uasset",
-				"C:/Users/redey/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/Box_4109789F.uasset"
+				"C:/Users/redey/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/Box_4109789F.uasset",
+				"C:/Users/redey/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/CubeGridToolOutput_0FC2CD1D.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/Harley/general.umap"
 			]
 		}
 	]
