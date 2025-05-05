@@ -2223,3 +2223,929 @@ Sampler Limit: 32
 [2025.05.05-18.19.51:473][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.05-18.19.51:473][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.05-18.19.51:473][221]AssetCheck: /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground Validating asset
+[2025.05.05-18.20.16:354][919]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character.BP_Character
+[2025.05.05-18.20.16:354][919]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.05.05-18.20.16:588][919]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.20.16:588][919]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.20.16:932][920]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.05.05-18.20.31:945][786]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1693.870728
+[2025.05.05-18.20.32:227][808]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-18.20.32:227][808]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1694.139893, Update Interval: 316.342651
+[2025.05.05-18.22.51:151][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:151][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:152][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:152][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:152][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:152][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:163][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:163][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:163][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:163][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:195][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.05-18.22.51:201][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:201][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:202][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:202][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:202][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:203][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:203][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:203][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:203][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:203][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:204][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:204][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:267][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:267][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:268][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:268][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:268][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:268][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:268][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:268][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:269][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.51:269][521]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.52:085][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-18.22.52:107][567]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character] ([2] browsable assets)...
+[2025.05.05-18.22.52:135][567]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character.BP_Character]
+[2025.05.05-18.22.52:135][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character]
+[2025.05.05-18.22.52:187][567]LogSavePackage: Moving output files for package: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character
+[2025.05.05-18.22.52:190][567]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/BP_Character112E130B4563CF9FB0E43992EDE11C42.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/BP_Character.uasset'
+[2025.05.05-18.22.52:202][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.890 ms (total: 1.39 sec)
+[2025.05.05-18.22.52:230][567]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-18.22.52:230][567]LogContentValidation: Enabled validators:
+[2025.05.05-18.22.52:230][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-18.22.52:230][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-18.22.52:230][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-18.22.52:230][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-18.22.52:230][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-18.22.52:230][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-18.22.52:230][567]AssetCheck: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character Validating asset
+[2025.05.05-18.22.54:132][753]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.05-18.22.54:142][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.05-18.22.54:177][753]LogPlayLevel: Creating play world package: /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.05-18.22.54:181][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004324s)
+[2025.05.05-18.22.54:181][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground.L_Playground to /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground (0.004357s)
+[2025.05.05-18.22.54:193][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.05.05-18.22.54:194][753]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Playground
+[2025.05.05-18.22.54:195][753]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2025.05.05-18.22.54:196][753]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.05.05-18.22.54:196][753]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.05-18.22.54:196][753]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.05-18.22.54:196][753]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.05-18.22.54:196][753]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.05-18.22.54:196][753]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.05-18.22.54:196][753]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.05-18.22.54:196][753]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.05-18.22.54:196][753]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.05-18.22.54:196][753]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.05-18.22.54:196][753]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.05-18.22.54:196][753]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.05-18.22.54:198][753]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.05-18.22.54:210][753]LogAudioMixer: Display: Using Audio Hardware Device 喇叭 (Realtek USB2.0 Audio)
+[2025.05.05-18.22.54:211][753]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.05-18.22.54:211][753]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.05-18.22.54:211][753]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.05-18.22.54:211][753]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.05.05-18.22.54:211][753]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.05.05-18.22.54:213][753]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.05.05-18.22.54:213][753]LogInit: FAudioDevice initialized with ID 9.
+[2025.05.05-18.22.54:213][753]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.05.05-18.22.54:213][753]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_Playground'.
+[2025.05.05-18.22.54:213][753]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.05-18.22.54:216][753]LogLoad: Game class is 'GM_FPS_C'
+[2025.05.05-18.22.54:225][753]LogWorld: Bringing World /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground up for play (max tick rate 0) at 2025.05.06-04.22.54
+[2025.05.05-18.22.54:227][753]LogWorld: Bringing up level for play took: 0.011385
+[2025.05.05-18.22.54:229][753]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.05.05-18.22.54:230][753]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.54:230][753]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.22.54:232][753]PIE: Server logged in
+[2025.05.05-18.22.54:234][753]PIE: Play in editor total start time 0.091 seconds.
+[2025.05.05-18.22.59:648][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-18.22.59:648][384]LogWorld: BeginTearingDown for /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.05-18.22.59:648][384]LogWorld: UWorld::CleanupWorld for L_Playground, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.22.59:649][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.22.59:653][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.05-18.22.59:655][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.22.59:666][384]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.05-18.22.59:668][384]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.05-18.22.59:668][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.05-18.22.59:670][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.05-18.22.59:674][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-18.22.59:680][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.05.05-18.22.59:736][385]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.05.05-18.24.28:739][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-18.24.28:767][255]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character] ([2] browsable assets)...
+[2025.05.05-18.24.28:767][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character]
+[2025.05.05-18.24.28:818][255]LogSavePackage: Moving output files for package: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character
+[2025.05.05-18.24.28:830][255]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/BP_CharacterF04DB2564839E571F877EAA6B2F2DA55.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/BP_Character.uasset'
+[2025.05.05-18.24.28:842][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.746 ms (total: 1.50 sec)
+[2025.05.05-18.24.28:870][255]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-18.24.28:870][255]LogContentValidation: Enabled validators:
+[2025.05.05-18.24.28:870][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-18.24.28:870][255]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-18.24.28:870][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-18.24.28:870][255]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-18.24.28:870][255]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-18.24.28:870][255]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-18.24.28:870][255]AssetCheck: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character Validating asset
+[2025.05.05-18.24.30:948][438]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.05-18.24.30:967][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.05-18.24.30:967][438]LogPlayLevel: Creating play world package: /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.05-18.24.30:972][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004363s)
+[2025.05.05-18.24.30:972][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground.L_Playground to /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground (0.004390s)
+[2025.05.05-18.24.30:983][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.05-18.24.30:985][438]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Playground
+[2025.05.05-18.24.30:985][438]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2025.05.05-18.24.30:986][438]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.05.05-18.24.30:986][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.05-18.24.30:986][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.05-18.24.30:986][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.05-18.24.30:986][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.05-18.24.30:986][438]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.05-18.24.30:986][438]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.05-18.24.30:986][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.05-18.24.30:986][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.05-18.24.30:986][438]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.05-18.24.30:986][438]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.05-18.24.30:986][438]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.05-18.24.30:988][438]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.05-18.24.31:000][438]LogAudioMixer: Display: Using Audio Hardware Device 喇叭 (Realtek USB2.0 Audio)
+[2025.05.05-18.24.31:000][438]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.05-18.24.31:000][438]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.05-18.24.31:000][438]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.05-18.24.31:001][438]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.05.05-18.24.31:001][438]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.05.05-18.24.31:003][438]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.05.05-18.24.31:003][438]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.05.05-18.24.31:003][438]LogInit: FAudioDevice initialized with ID 10.
+[2025.05.05-18.24.31:003][438]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_Playground'.
+[2025.05.05-18.24.31:003][438]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.05.05-18.24.31:005][438]LogLoad: Game class is 'GM_FPS_C'
+[2025.05.05-18.24.31:014][438]LogWorld: Bringing World /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground up for play (max tick rate 0) at 2025.05.06-04.24.31
+[2025.05.05-18.24.31:017][438]LogWorld: Bringing up level for play took: 0.011207
+[2025.05.05-18.24.31:019][438]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.05.05-18.24.31:019][438]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.31:019][438]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.31:022][438]PIE: Server logged in
+[2025.05.05-18.24.31:022][438]PIE: Play in editor total start time 0.055 seconds.
+[2025.05.05-18.24.43:097][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-18.24.43:097][834]LogWorld: BeginTearingDown for /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.05-18.24.43:097][834]LogWorld: UWorld::CleanupWorld for L_Playground, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.24.43:098][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.24.43:102][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.05-18.24.43:105][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.24.43:119][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-18.24.43:119][834]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.05.05-18.24.43:119][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.05.05-18.24.43:120][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.05.05-18.24.43:129][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.05.05-18.24.43:189][835]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.05.05-18.24.56:097][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:097][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:098][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:098][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:098][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:098][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:099][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:099][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:100][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:100][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:100][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:100][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:101][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:101][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:101][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:101][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:102][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:102][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:102][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.24.56:102][787]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:752][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:752][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:753][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:753][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:753][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:753][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:754][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:754][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:755][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:755][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:755][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:755][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:756][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:756][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:756][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:756][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:757][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:757][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:757][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.01:757][123]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:835][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:835][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:836][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:836][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:836][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:836][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:837][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:837][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:838][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:838][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:839][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:839][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:839][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:839][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:839][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:839][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:840][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:840][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:840][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.04:840][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:300][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:300][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:300][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:301][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:301][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:301][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:312][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:312][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:312][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:312][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:312][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:312][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:312][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:312][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:312][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:312][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:312][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:313][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:329][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.05-18.25.48:335][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:335][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:336][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:336][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:336][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:336][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:337][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:337][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:337][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:337][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:337][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:337][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:409][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:409][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:409][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:409][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:409][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:409][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:410][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:410][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:410][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.48:410][651]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.49:860][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-18.25.49:888][730]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character] ([2] browsable assets)...
+[2025.05.05-18.25.49:916][730]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character.BP_Character]
+[2025.05.05-18.25.49:916][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character]
+[2025.05.05-18.25.49:968][730]LogSavePackage: Moving output files for package: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character
+[2025.05.05-18.25.49:971][730]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/BP_CharacterFD8C982448CD9EB01335EBADA17C01A0.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/BP_Character.uasset'
+[2025.05.05-18.25.49:984][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.536 ms (total: 1.62 sec)
+[2025.05.05-18.25.50:011][730]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-18.25.50:011][730]LogContentValidation: Enabled validators:
+[2025.05.05-18.25.50:011][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-18.25.50:011][730]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-18.25.50:011][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-18.25.50:011][730]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-18.25.50:011][730]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-18.25.50:011][730]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-18.25.50:011][730]AssetCheck: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character Validating asset
+[2025.05.05-18.25.51:679][879]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.05-18.25.51:698][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.05-18.25.51:698][879]LogPlayLevel: Creating play world package: /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.05-18.25.51:702][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004127s)
+[2025.05.05-18.25.51:702][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground.L_Playground to /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground (0.004153s)
+[2025.05.05-18.25.51:717][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.05-18.25.51:718][879]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Playground
+[2025.05.05-18.25.51:719][879]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2025.05.05-18.25.51:720][879]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.05.05-18.25.51:720][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.05-18.25.51:720][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.05-18.25.51:720][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.05-18.25.51:720][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.05-18.25.51:720][879]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.05-18.25.51:720][879]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.05-18.25.51:720][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.05-18.25.51:720][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.05-18.25.51:720][879]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.05-18.25.51:720][879]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.05-18.25.51:720][879]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.05-18.25.51:722][879]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.05-18.25.51:732][879]LogAudioMixer: Display: Using Audio Hardware Device 喇叭 (Realtek USB2.0 Audio)
+[2025.05.05-18.25.51:733][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.05-18.25.51:733][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.05-18.25.51:733][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.05-18.25.51:734][879]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.05.05-18.25.51:734][879]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.05.05-18.25.51:735][879]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.05.05-18.25.51:735][879]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.05.05-18.25.51:735][879]LogInit: FAudioDevice initialized with ID 11.
+[2025.05.05-18.25.51:735][879]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_Playground'.
+[2025.05.05-18.25.51:735][879]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.05.05-18.25.51:738][879]LogLoad: Game class is 'GM_FPS_C'
+[2025.05.05-18.25.51:747][879]LogWorld: Bringing World /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground up for play (max tick rate 0) at 2025.05.06-04.25.51
+[2025.05.05-18.25.51:749][879]LogWorld: Bringing up level for play took: 0.011098
+[2025.05.05-18.25.51:751][879]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.05.05-18.25.51:752][879]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.51:752][879]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.25.51:754][879]PIE: Server logged in
+[2025.05.05-18.25.51:755][879]PIE: Play in editor total start time 0.058 seconds.
+[2025.05.05-18.26.21:660][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2043.586670
+[2025.05.05-18.26.21:917][482]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-18.26.21:917][482]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2043.835449, Update Interval: 343.576782
+[2025.05.05-18.26.23:047][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-18.26.23:047][614]LogWorld: BeginTearingDown for /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.05-18.26.23:047][614]LogWorld: UWorld::CleanupWorld for L_Playground, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.26.23:049][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.26.23:052][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.05-18.26.23:057][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.26.23:071][614]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.05-18.26.23:072][614]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.05.05-18.26.23:072][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.05-18.26.23:073][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.05-18.26.23:075][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-18.26.23:082][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.05.05-18.26.23:140][615]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.05.05-18.27.28:409][509]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.28:409][509]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.28:410][509]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.28:410][509]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.28:412][509]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.28:412][509]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.28:413][509]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.28:413][509]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.28:413][509]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.28:413][509]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.36:939][193]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.36:939][193]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.36:940][193]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.36:940][193]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.36:942][193]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.36:942][193]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.36:942][193]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.36:942][193]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.36:943][193]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.27.36:943][193]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.31:838][281]LogEditorTransaction: Undo Break Pin Links
+[2025.05.05-18.28.31:859][281]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.31:859][281]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.31:860][281]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.31:860][281]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.31:860][281]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.31:860][281]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.31:861][281]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.31:861][281]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.31:861][281]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.31:861][281]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:374][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:374][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:375][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:375][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:375][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:375][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:385][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:400][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.05.05-18.28.47:406][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:406][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:407][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:407][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:407][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:407][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:408][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:408][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:408][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:408][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:409][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:409][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:481][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:482][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:482][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:482][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:482][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:482][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:483][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:483][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:484][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.47:484][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.48:093][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-18.28.48:115][581]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character] ([2] browsable assets)...
+[2025.05.05-18.28.48:142][581]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character.BP_Character]
+[2025.05.05-18.28.48:142][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character]
+[2025.05.05-18.28.48:195][581]LogSavePackage: Moving output files for package: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character
+[2025.05.05-18.28.48:198][581]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/BP_Character91E3A03C4F0928E3482514AEA770EBF3.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/BP_Character.uasset'
+[2025.05.05-18.28.48:210][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.167 ms (total: 1.74 sec)
+[2025.05.05-18.28.48:232][581]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-18.28.48:232][581]LogContentValidation: Enabled validators:
+[2025.05.05-18.28.48:232][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-18.28.48:232][581]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-18.28.48:232][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-18.28.48:232][581]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-18.28.48:232][581]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-18.28.48:232][581]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-18.28.48:232][581]AssetCheck: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character Validating asset
+[2025.05.05-18.28.50:644][821]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.05-18.28.50:654][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.05-18.28.50:677][821]LogPlayLevel: Creating play world package: /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.05-18.28.50:681][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004222s)
+[2025.05.05-18.28.50:681][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground.L_Playground to /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground (0.004253s)
+[2025.05.05-18.28.50:694][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.05.05-18.28.50:695][821]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Playground
+[2025.05.05-18.28.50:697][821]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2025.05.05-18.28.50:698][821]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.05.05-18.28.50:698][821]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.05-18.28.50:698][821]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.05-18.28.50:698][821]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.05-18.28.50:698][821]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.05-18.28.50:698][821]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.05-18.28.50:698][821]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.05-18.28.50:698][821]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.05-18.28.50:698][821]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.05-18.28.50:698][821]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.05-18.28.50:698][821]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.05-18.28.50:698][821]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.05-18.28.50:699][821]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.05-18.28.50:711][821]LogAudioMixer: Display: Using Audio Hardware Device 喇叭 (Realtek USB2.0 Audio)
+[2025.05.05-18.28.50:711][821]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.05-18.28.50:711][821]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.05-18.28.50:711][821]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.05-18.28.50:712][821]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.05.05-18.28.50:712][821]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.05.05-18.28.50:714][821]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.05.05-18.28.50:714][821]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.05.05-18.28.50:714][821]LogInit: FAudioDevice initialized with ID 12.
+[2025.05.05-18.28.50:714][821]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_Playground'.
+[2025.05.05-18.28.50:714][821]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.05.05-18.28.50:715][821]LogLoad: Game class is 'GM_FPS_C'
+[2025.05.05-18.28.50:725][821]LogWorld: Bringing World /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground up for play (max tick rate 0) at 2025.05.06-04.28.50
+[2025.05.05-18.28.50:728][821]LogWorld: Bringing up level for play took: 0.011410
+[2025.05.05-18.28.50:730][821]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.05.05-18.28.50:731][821]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.50:731][821]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.28.50:733][821]PIE: Server logged in
+[2025.05.05-18.28.50:734][821]PIE: Play in editor total start time 0.08 seconds.
+[2025.05.05-18.29.18:727][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-18.29.18:727][163]LogWorld: BeginTearingDown for /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.05-18.29.18:727][163]LogWorld: UWorld::CleanupWorld for L_Playground, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.29.18:728][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.29.18:733][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.05-18.29.18:735][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.29.18:748][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.05-18.29.18:749][163]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.05.05-18.29.18:749][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.05.05-18.29.18:751][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.05.05-18.29.18:754][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-18.29.18:761][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.05-18.29.18:819][164]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.05.05-18.31.10:670][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:670][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:671][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:671][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:671][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:671][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:682][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:682][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:682][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:682][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:697][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.05.05-18.31.10:703][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:703][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:703][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:703][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:703][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:703][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:704][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:704][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:704][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:704][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:705][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:705][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:780][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:780][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:780][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:780][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:780][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:780][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:781][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:781][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:782][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.10:782][737]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.11:773][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-18.31.11:799][793]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character] ([2] browsable assets)...
+[2025.05.05-18.31.11:826][793]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character.BP_Character]
+[2025.05.05-18.31.11:826][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character]
+[2025.05.05-18.31.11:879][793]LogSavePackage: Moving output files for package: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character
+[2025.05.05-18.31.11:891][793]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/BP_CharacterA690E784461168359BABD78515A5BFA4.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/BP_Character.uasset'
+[2025.05.05-18.31.11:903][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.900 ms (total: 1.87 sec)
+[2025.05.05-18.31.11:934][793]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-18.31.11:934][793]LogContentValidation: Enabled validators:
+[2025.05.05-18.31.11:934][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-18.31.11:934][793]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-18.31.11:934][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-18.31.11:934][793]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-18.31.11:934][793]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-18.31.11:934][793]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-18.31.11:934][793]AssetCheck: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character Validating asset
+[2025.05.05-18.31.14:561][ 50]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.05-18.31.14:571][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.05-18.31.14:571][ 50]LogPlayLevel: Creating play world package: /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.05-18.31.14:576][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004166s)
+[2025.05.05-18.31.14:576][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground.L_Playground to /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground (0.004192s)
+[2025.05.05-18.31.14:588][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.05-18.31.14:590][ 50]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Playground
+[2025.05.05-18.31.14:591][ 50]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2025.05.05-18.31.14:592][ 50]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.05.05-18.31.14:592][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.05-18.31.14:592][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.05-18.31.14:592][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.05-18.31.14:592][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.05-18.31.14:592][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.05-18.31.14:592][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.05-18.31.14:592][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.05-18.31.14:592][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.05-18.31.14:592][ 50]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.05-18.31.14:592][ 50]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.05-18.31.14:592][ 50]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.05-18.31.14:594][ 50]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.05-18.31.14:604][ 50]LogAudioMixer: Display: Using Audio Hardware Device 喇叭 (Realtek USB2.0 Audio)
+[2025.05.05-18.31.14:605][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.05-18.31.14:605][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.05-18.31.14:605][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.05-18.31.14:605][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.05.05-18.31.14:605][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.05.05-18.31.14:608][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.05.05-18.31.14:608][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.05.05-18.31.14:608][ 50]LogInit: FAudioDevice initialized with ID 13.
+[2025.05.05-18.31.14:608][ 50]LogAudio: Display: Audio Device (ID: 13) registered with world 'L_Playground'.
+[2025.05.05-18.31.14:608][ 50]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.05.05-18.31.14:610][ 50]LogLoad: Game class is 'GM_FPS_C'
+[2025.05.05-18.31.14:619][ 50]LogWorld: Bringing World /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground up for play (max tick rate 0) at 2025.05.06-04.31.14
+[2025.05.05-18.31.14:621][ 50]LogWorld: Bringing up level for play took: 0.011564
+[2025.05.05-18.31.14:624][ 50]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.05.05-18.31.14:625][ 50]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.14:625][ 50]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.14:627][ 50]PIE: Server logged in
+[2025.05.05-18.31.14:628][ 50]PIE: Play in editor total start time 0.057 seconds.
+[2025.05.05-18.31.23:188][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-18.31.23:188][ 63]LogWorld: BeginTearingDown for /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.05-18.31.23:188][ 63]LogWorld: UWorld::CleanupWorld for L_Playground, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.31.23:189][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.31.23:192][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.05-18.31.23:195][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.31.23:208][ 63]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.05-18.31.23:209][ 63]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.05.05-18.31.23:209][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.05.05-18.31.23:211][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.05.05-18.31.23:214][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-18.31.23:220][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.05.05-18.31.23:278][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.05.05-18.31.31:448][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:448][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:448][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:448][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:449][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:449][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:460][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:460][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:460][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:460][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:476][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.05.05-18.31.31:483][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:483][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:483][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:483][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:484][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:484][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:484][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:484][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:484][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:485][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:485][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:485][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:562][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:562][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:563][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:563][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:563][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:563][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:564][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:564][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:564][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.31:564][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.32:275][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-18.31.32:302][761]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character] ([2] browsable assets)...
+[2025.05.05-18.31.32:330][761]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character.BP_Character]
+[2025.05.05-18.31.32:330][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character]
+[2025.05.05-18.31.32:381][761]LogSavePackage: Moving output files for package: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character
+[2025.05.05-18.31.32:384][761]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/BP_Character13B6CFE04AFB8F56A24F24B1A8F33F77.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/BP_Character.uasset'
+[2025.05.05-18.31.32:396][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.310 ms (total: 1.99 sec)
+[2025.05.05-18.31.32:424][761]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-18.31.32:424][761]LogContentValidation: Enabled validators:
+[2025.05.05-18.31.32:424][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-18.31.32:424][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-18.31.32:424][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-18.31.32:424][761]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-18.31.32:424][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-18.31.32:424][761]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-18.31.32:425][761]AssetCheck: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character Validating asset
+[2025.05.05-18.31.39:623][401]LogEditorTransaction: Undo Delete current selection
+[2025.05.05-18.31.39:644][401]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.39:644][401]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.39:644][401]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.39:644][401]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.39:645][401]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.39:645][401]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.39:645][401]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.39:645][401]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.39:646][401]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.39:646][401]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:165][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:165][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:166][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:166][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:167][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:167][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:177][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:193][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.05.05-18.31.42:199][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:199][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:200][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:200][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:200][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:200][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:201][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:201][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:201][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:201][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:202][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:202][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:280][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:280][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:280][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:280][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:281][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:281][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:281][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:281][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:282][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:282][581]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.05-18.31.42:961][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-18.31.42:982][615]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character] ([2] browsable assets)...
+[2025.05.05-18.31.43:008][615]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character.BP_Character]
+[2025.05.05-18.31.43:008][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfimaGames/FreeFPSTemplate/Core/BP_Character]
+[2025.05.05-18.31.43:059][615]LogSavePackage: Moving output files for package: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character
+[2025.05.05-18.31.43:071][615]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/BP_Character8343B4924C58E744DF2F40A4A56C4DFE.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/BP_Character.uasset'
+[2025.05.05-18.31.43:085][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.127 ms (total: 2.11 sec)
+[2025.05.05-18.31.43:111][615]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-18.31.43:111][615]LogContentValidation: Enabled validators:
+[2025.05.05-18.31.43:111][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-18.31.43:111][615]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-18.31.43:111][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-18.31.43:111][615]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-18.31.43:112][615]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-18.31.43:112][615]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-18.31.43:112][615]AssetCheck: /Game/InfimaGames/FreeFPSTemplate/Core/BP_Character Validating asset
+[2025.05.05-18.31.53:385][170]LogSlate: Window 'BP_Character' being destroyed
+[2025.05.05-18.31.53:391][170]LogSlate: Window 'BP_Character' being destroyed
+[2025.05.05-18.31.53:399][170]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.31.53:399][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.31.53:443][170]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.31.53:443][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.31.53:491][170]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.05-18.31.53:491][170]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.31.53:491][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.31.53:607][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.05-18.32.25:372][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.05-18.32.25:373][  1]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground' took 0.016
+[2025.05.05-18.32.25:374][  1]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2025.05.05-18.32.25:374][  1]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2025.05.05-18.32.25:377][  1]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto2
+[2025.05.05-18.32.25:377][  1]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/BasicShapeMaterial_Auto28E945425492F2C194AB515BDA3316AAB.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto2.uasset'
+[2025.05.05-18.32.25:389][  1]LogFileHelpers: Auto-saving content packages took 0.016
+[2025.05.05-18.32.50:322][ 76]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2432.256592
+[2025.05.05-18.32.51:331][ 79]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-18.32.51:331][ 79]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2432.924316, Update Interval: 308.194214
+[2025.05.05-18.32.54:254][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.05-18.32.55:813][180]LogSlate: Window 'Save Content' being destroyed
+[2025.05.05-18.32.57:334][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-18.32.57:408][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.05.05-18.32.57:458][359]LogSavePackage: Moving output files for package: /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground
+[2025.05.05-18.32.57:461][359]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/L_Playground5732CE794300B6F853B942A26E5A41AF.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Maps/L_Playground.umap'
+[2025.05.05-18.32.57:483][359]LogFileHelpers: Saving map 'L_Playground' took 0.121
+[2025.05.05-18.32.57:490][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.184 ms (total: 2.27 sec)
+[2025.05.05-18.32.57:513][359]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-18.32.57:513][359]LogContentValidation: Enabled validators:
+[2025.05.05-18.32.57:513][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-18.32.57:513][359]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-18.32.57:513][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-18.32.57:513][359]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-18.32.57:513][359]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-18.32.57:513][359]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-18.32.57:513][359]AssetCheck: /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground Validating asset
+[2025.05.05-18.32.58:288][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-18.32.58:357][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.05.05-18.32.58:408][450]LogSavePackage: Moving output files for package: /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground
+[2025.05.05-18.32.58:410][450]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/L_Playground76BF9E034850C29CB9F7A68D471D4C72.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Maps/L_Playground.umap'
+[2025.05.05-18.32.58:432][450]LogFileHelpers: Saving map 'L_Playground' took 0.119
+[2025.05.05-18.32.58:447][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.861 ms (total: 2.43 sec)
+[2025.05.05-18.32.58:471][450]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-18.32.58:471][450]LogContentValidation: Enabled validators:
+[2025.05.05-18.32.58:471][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-18.32.58:471][450]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-18.32.58:471][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-18.32.58:471][450]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-18.32.58:471][450]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-18.32.58:471][450]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-18.32.58:471][450]AssetCheck: /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground Validating asset
+[2025.05.05-18.32.58:915][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-18.32.58:993][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.05-18.32.59:045][501]LogSavePackage: Moving output files for package: /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground
+[2025.05.05-18.32.59:047][501]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/L_Playground5B299833496A5E2B638CAE81FEDADD6F.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Maps/L_Playground.umap'
+[2025.05.05-18.32.59:069][501]LogFileHelpers: Saving map 'L_Playground' took 0.131
+[2025.05.05-18.32.59:077][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.087 ms (total: 2.59 sec)
+[2025.05.05-18.32.59:107][501]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-18.32.59:108][501]LogContentValidation: Enabled validators:
+[2025.05.05-18.32.59:108][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-18.32.59:108][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-18.32.59:108][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-18.32.59:108][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-18.32.59:108][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-18.32.59:108][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-18.32.59:108][501]AssetCheck: /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground Validating asset
+[2025.05.05-18.32.59:991][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.05.05-18.33.06:326][604]LogSlate: Window 'Save Content' being destroyed
+[2025.05.05-18.33.06:351][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-18.33.06:374][604]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2025.05.05-18.33.06:374][604]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2025.05.05-18.33.06:374][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2025.05.05-18.33.06:377][604]LogSavePackage: Moving output files for package: /Engine/BasicShapes/BasicShapeMaterial
+[2025.05.05-18.33.06:378][604]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/BasicShapeMaterialC0D51D7843B82F2350C419AC3867A8B0.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2025.05.05-18.33.06:391][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.476 ms (total: 2.63 sec)
+[2025.05.05-18.33.06:473][604]LogStall: Shutdown...
+[2025.05.05-18.33.06:473][604]LogStall: Shutdown complete.
+[2025.05.05-18.33.06:535][604]LogSlate: Window 'BababooeyProjectGunstride - Unreal Editor' being destroyed
+[2025.05.05-18.33.06:537][604]LogWindowsTextInputMethodSystem: Activated input method: 繁體中文 (台灣) - Microsoft 速成 (TSF IME).
+[2025.05.05-18.33.06:619][604]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.05-18.33.06:619][604]LogContentValidation: Enabled validators:
+[2025.05.05-18.33.06:619][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-18.33.06:619][604]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-18.33.06:619][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-18.33.06:619][604]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-18.33.06:619][604]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-18.33.06:619][604]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-18.33.06:620][604]AssetCheck: /Engine/BasicShapes/BasicShapeMaterial Validating asset
+[2025.05.05-18.33.06:622][604]Cmd: QUIT_EDITOR
+[2025.05.05-18.33.06:622][604]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.05-18.33.06:634][605]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.05-18.33.06:634][605]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.05-18.33.06:634][605]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.05-18.33.06:635][605]LogWorld: UWorld::CleanupWorld for L_Playground, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:635][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:654][605]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.05-18.33.06:654][605]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.05-18.33.06:658][605]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:658][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:660][605]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:660][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:662][605]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:662][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:664][605]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:664][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:665][605]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:665][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:667][605]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:667][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:668][605]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:668][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:670][605]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:670][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:672][605]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:672][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:673][605]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:673][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:675][605]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:675][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:676][605]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:676][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:678][605]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:678][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:679][605]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:679][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:680][605]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:680][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:682][605]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-18.33.06:682][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-18.33.06:684][605]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.05-18.33.06:691][605]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.05-18.33.06:691][605]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.05-18.33.06:691][605]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.05-18.33.06:914][605]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.05-18.33.06:914][605]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.05-18.33.06:914][605]LogAudio: Display: Audio Device unregistered from world 'L_Playground'.
+[2025.05.05-18.33.06:914][605]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.05-18.33.06:914][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.05-18.33.06:916][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.05-18.33.06:920][605]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.05-18.33.06:920][605]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.05-18.33.06:922][605]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.05-18.33.06:922][605]LogExit: Preparing to exit.
+[2025.05.05-18.33.06:963][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:971][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:972][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:972][605]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.06:972][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.05-18.33.07:970][605]LogEditorDataStorage: Deinitializing
+[2025.05.05-18.33.08:130][605]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.05-18.33.08:144][605]LogExit: Editor shut down
+[2025.05.05-18.33.08:146][605]LogExit: Transaction tracking system shut down
+[2025.05.05-18.33.08:250][605]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 7.
+[2025.05.05-18.33.08:267][605]LogExit: Object subsystem successfully closed.
+[2025.05.05-18.33.08:345][605]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.05-18.33.08:417][605]LogMemoryProfiler: Shutdown
+[2025.05.05-18.33.08:417][605]LogNetworkingProfiler: Shutdown
+[2025.05.05-18.33.08:417][605]LoadingProfiler: Shutdown
+[2025.05.05-18.33.08:417][605]LogTimingProfiler: Shutdown
+[2025.05.05-18.33.08:769][605]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.05-18.33.08:794][605]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.05-18.33.08:794][605]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B076EE88D-423F-6DAE-73EE-51864D372F53%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=9595c21c4e39c64c2a7586b10f1b60bf%7C904296cae09d4d8b8c7b5598a892d408%7C8f6d4478-aabc-4f9e-a60f-4fc93285b994&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.05-18.33.09:862][605]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.05-18.33.09:875][605]RenderDocPlugin: plugin has been unloaded.
+[2025.05.05-18.33.09:886][605]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.05-18.33.09:886][605]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.05-18.33.09:889][605]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.05-18.33.09:889][605]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.05-18.33.09:889][605]LogPakFile: Destroying PakPlatformFile
+[2025.05.05-18.33.10:124][605]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.05-18.33.10:187][605]LogExit: Exiting.
+[2025.05.05-18.33.10:221][605]Log file closed, 05/06/25 04:33:10
