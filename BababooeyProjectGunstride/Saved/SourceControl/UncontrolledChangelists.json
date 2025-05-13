@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/BP_Character.uasset",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/WallMaterial.uasset",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/BP_WallForRunning.uasset",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Maps/L_Playground.umap",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Data/IA_Slide.uasset",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Data/IMC_FPS.uasset",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/Teleportor.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		}
+	]
+}
