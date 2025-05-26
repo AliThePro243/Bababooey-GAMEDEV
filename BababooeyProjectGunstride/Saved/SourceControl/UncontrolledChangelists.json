@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Maps/Ai-TEST.umap",
+				"C:/Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/BP_Bullet.uasset",
+				"C:/Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/NS_bullet.uasset",
 				"C:/Users/redey/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Maps/L_Playground.umap",
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/Harley/level.umap",
 				"C:/Users/redey/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Harley/level.umap",
