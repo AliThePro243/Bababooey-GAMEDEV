@@ -1528,3 +1528,308 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.30-19.11.37:247][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
 [2025.05.30-19.11.37:259][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
 [2025.05.30-19.11.37:315][111]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.05.30-19.12.19:962][608]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.30-19.12.19:968][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.30-19.12.19:968][608]LogPlayLevel: Creating play world package: /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.30-19.12.19:973][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004304s)
+[2025.05.30-19.12.19:973][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground.L_Playground to /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground (0.004330s)
+[2025.05.30-19.12.19:979][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.05.30-19.12.19:980][608]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Playground
+[2025.05.30-19.12.19:981][608]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2025.05.30-19.12.19:982][608]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.05.30-19.12.19:982][608]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.30-19.12.19:982][608]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.30-19.12.19:982][608]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.30-19.12.19:982][608]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.30-19.12.19:982][608]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.30-19.12.19:982][608]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.30-19.12.19:982][608]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.30-19.12.19:982][608]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.30-19.12.19:982][608]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.30-19.12.19:982][608]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.30-19.12.19:982][608]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.30-19.12.19:984][608]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.30-19.12.20:082][608]LogAudioMixer: Display: Using Audio Hardware Device 耳麥式耳機 (CORSAIR VIRTUOSO Wireless Gaming Headset)
+[2025.05.30-19.12.20:082][608]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.30-19.12.20:082][608]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.30-19.12.20:082][608]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.30-19.12.20:082][608]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.05.30-19.12.20:083][608]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2025.05.30-19.12.20:086][608]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.05.30-19.12.20:086][608]LogInit: FAudioDevice initialized with ID 4.
+[2025.05.30-19.12.20:086][608]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.05.30-19.12.20:086][608]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_Playground'.
+[2025.05.30-19.12.20:086][608]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.30-19.12.20:108][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-19.12.20:108][608]LogLoad: Game class is 'GM_FPS_C'
+[2025.05.30-19.12.20:119][608]LogWorld: Bringing World /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground up for play (max tick rate 0) at 2025.05.31-05.12.20
+[2025.05.30-19.12.20:122][608]LogWorld: Bringing up level for play took: 0.012874
+[2025.05.30-19.12.20:124][608]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.05.30-19.12.20:125][608]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.30-19.12.20:125][608]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.30-19.12.20:129][608]PIE: Server logged in
+[2025.05.30-19.12.20:130][608]PIE: Play in editor total start time 0.162 seconds.
+[2025.05.30-19.12.20:160][608]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'BGM_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.05.30-19.12.25:687][256]LogDerivedDataCache: C:/Users/Hohei/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.30-19.12.32:275][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-19.12.32:275][ 40]LogWorld: BeginTearingDown for /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.30-19.12.32:276][ 40]LogSlate: Window 'BababooeyProjectGunstride Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.30-19.12.32:283][ 40]LogWorld: UWorld::CleanupWorld for L_Playground, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-19.12.32:284][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-19.12.32:287][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.30-19.12.32:289][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-19.12.32:299][ 40]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.30-19.12.32:299][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.30-19.12.32:301][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.30-19.12.32:312][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.05.30-19.12.32:336][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.05.30-19.12.43:034][310]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/SFX/Jump_Cue.Jump_Cue
+[2025.05.30-19.12.43:199][310]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.05.30-19.12.49:543][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-19.12.49:572][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SFX/Jump_Cue] ([1] browsable assets)...
+[2025.05.30-19.12.49:572][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/SFX/Jump_Cue]
+[2025.05.30-19.12.49:572][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Jump_Cue" FILE="../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Jump_Cue.uasset" SILENT=true
+[2025.05.30-19.12.49:576][ 64]LogSavePackage: Moving output files for package: /Game/SFX/Jump_Cue
+[2025.05.30-19.12.49:576][ 64]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/Jump_CueD815BAB742133B0C0C8DEDB305A660AB.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Jump_Cue.uasset'
+[2025.05.30-19.12.49:586][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.444 ms
+[2025.05.30-19.12.49:612][ 64]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-19.12.49:613][ 64]LogContentValidation: Enabled validators:
+[2025.05.30-19.12.49:613][ 64]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-19.12.49:613][ 64]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-19.12.49:613][ 64]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-19.12.49:613][ 64]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-19.12.49:613][ 64]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-19.12.49:613][ 64]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-19.12.49:613][ 64]AssetCheck: /Game/SFX/Jump_Cue Validating asset
+[2025.05.30-19.12.52:410][393]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.30-19.12.52:416][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.30-19.12.52:416][393]LogPlayLevel: Creating play world package: /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.30-19.12.52:421][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004569s)
+[2025.05.30-19.12.52:421][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground.L_Playground to /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground (0.004596s)
+[2025.05.30-19.12.52:435][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.30-19.12.52:436][393]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Playground
+[2025.05.30-19.12.52:437][393]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2025.05.30-19.12.52:437][393]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.05.30-19.12.52:437][393]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.30-19.12.52:437][393]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.30-19.12.52:437][393]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.30-19.12.52:437][393]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.30-19.12.52:437][393]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.30-19.12.52:437][393]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.30-19.12.52:437][393]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.30-19.12.52:437][393]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.30-19.12.52:437][393]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.30-19.12.52:437][393]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.30-19.12.52:437][393]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.30-19.12.52:439][393]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.30-19.12.52:538][393]LogAudioMixer: Display: Using Audio Hardware Device 耳麥式耳機 (CORSAIR VIRTUOSO Wireless Gaming Headset)
+[2025.05.30-19.12.52:538][393]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.30-19.12.52:538][393]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.30-19.12.52:538][393]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.30-19.12.52:538][393]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.05.30-19.12.52:538][393]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2025.05.30-19.12.52:541][393]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.05.30-19.12.52:541][393]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.05.30-19.12.52:541][393]LogInit: FAudioDevice initialized with ID 5.
+[2025.05.30-19.12.52:541][393]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_Playground'.
+[2025.05.30-19.12.52:541][393]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.30-19.12.52:563][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-19.12.52:563][393]LogLoad: Game class is 'GM_FPS_C'
+[2025.05.30-19.12.52:575][393]LogWorld: Bringing World /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground up for play (max tick rate 0) at 2025.05.31-05.12.52
+[2025.05.30-19.12.52:577][393]LogWorld: Bringing up level for play took: 0.013834
+[2025.05.30-19.12.52:579][393]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.05.30-19.12.52:580][393]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.30-19.12.52:580][393]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.30-19.12.52:585][393]PIE: Server logged in
+[2025.05.30-19.12.52:587][393]PIE: Play in editor total start time 0.171 seconds.
+[2025.05.30-19.12.52:617][393]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'BGM_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.05.30-19.13.15:775][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-19.13.15:775][125]LogWorld: BeginTearingDown for /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.30-19.13.15:776][125]LogSlate: Window 'BababooeyProjectGunstride Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.30-19.13.15:784][125]LogWorld: UWorld::CleanupWorld for L_Playground, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-19.13.15:785][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-19.13.15:789][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.30-19.13.15:791][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-19.13.15:800][125]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.30-19.13.15:801][125]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.30-19.13.15:801][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.30-19.13.15:803][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.30-19.13.15:816][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.05.30-19.13.15:839][126]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.05.30-19.13.23:729][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-19.13.23:760][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SFX/Jump_Cue] ([1] browsable assets)...
+[2025.05.30-19.13.23:760][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/SFX/Jump_Cue]
+[2025.05.30-19.13.23:761][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Jump_Cue" FILE="../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Jump_Cue.uasset" SILENT=true
+[2025.05.30-19.13.23:764][ 25]LogSavePackage: Moving output files for package: /Game/SFX/Jump_Cue
+[2025.05.30-19.13.23:765][ 25]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/Jump_Cue56921A204ADD0E6802BC729EAB655E03.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Jump_Cue.uasset'
+[2025.05.30-19.13.23:774][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.705 ms (total: 87.149 ms)
+[2025.05.30-19.13.23:802][ 25]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-19.13.23:802][ 25]LogContentValidation: Enabled validators:
+[2025.05.30-19.13.23:802][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-19.13.23:802][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-19.13.23:802][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-19.13.23:802][ 25]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-19.13.23:802][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-19.13.23:802][ 25]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-19.13.23:802][ 25]AssetCheck: /Game/SFX/Jump_Cue Validating asset
+[2025.05.30-19.13.27:918][469]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.30-19.13.27:924][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.30-19.13.27:924][469]LogPlayLevel: Creating play world package: /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.30-19.13.27:929][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004235s)
+[2025.05.30-19.13.27:929][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground.L_Playground to /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground (0.004259s)
+[2025.05.30-19.13.27:935][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.05.30-19.13.27:936][469]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Playground
+[2025.05.30-19.13.27:937][469]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2025.05.30-19.13.27:938][469]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.05.30-19.13.27:938][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.30-19.13.27:938][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.30-19.13.27:938][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.30-19.13.27:938][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.30-19.13.27:938][469]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.30-19.13.27:938][469]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.30-19.13.27:938][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.30-19.13.27:938][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.30-19.13.27:938][469]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.30-19.13.27:938][469]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.30-19.13.27:938][469]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.30-19.13.27:940][469]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.30-19.13.28:041][469]LogAudioMixer: Display: Using Audio Hardware Device 耳麥式耳機 (CORSAIR VIRTUOSO Wireless Gaming Headset)
+[2025.05.30-19.13.28:042][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.30-19.13.28:042][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.30-19.13.28:042][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.30-19.13.28:042][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.05.30-19.13.28:042][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2025.05.30-19.13.28:044][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.05.30-19.13.28:044][469]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.05.30-19.13.28:044][469]LogInit: FAudioDevice initialized with ID 6.
+[2025.05.30-19.13.28:044][469]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_Playground'.
+[2025.05.30-19.13.28:044][469]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.30-19.13.28:065][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-19.13.28:065][469]LogLoad: Game class is 'GM_FPS_C'
+[2025.05.30-19.13.28:075][469]LogWorld: Bringing World /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground up for play (max tick rate 0) at 2025.05.31-05.13.28
+[2025.05.30-19.13.28:078][469]LogWorld: Bringing up level for play took: 0.012238
+[2025.05.30-19.13.28:080][469]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.05.30-19.13.28:081][469]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.30-19.13.28:081][469]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.30-19.13.28:086][469]PIE: Server logged in
+[2025.05.30-19.13.28:088][469]PIE: Play in editor total start time 0.163 seconds.
+[2025.05.30-19.13.28:118][469]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'BGM_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.05.30-19.13.30:535][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-19.13.30:535][695]LogWorld: BeginTearingDown for /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.30-19.13.30:535][695]LogSlate: Window 'BababooeyProjectGunstride Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.30-19.13.30:542][695]LogWorld: UWorld::CleanupWorld for L_Playground, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-19.13.30:543][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-19.13.30:546][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.30-19.13.30:547][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-19.13.30:554][695]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.30-19.13.30:554][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.30-19.13.30:556][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.30-19.13.30:567][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.30-19.13.30:614][699]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.05.30-19.13.38:744][370]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/SFX/Walk_Cue.Walk_Cue
+[2025.05.30-19.13.42:124][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-19.13.42:154][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SFX/Walk_Cue] ([1] browsable assets)...
+[2025.05.30-19.13.42:154][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/SFX/Walk_Cue]
+[2025.05.30-19.13.42:154][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Walk_Cue" FILE="../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Walk_Cue.uasset" SILENT=true
+[2025.05.30-19.13.42:158][751]LogSavePackage: Moving output files for package: /Game/SFX/Walk_Cue
+[2025.05.30-19.13.42:158][751]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/Walk_CueC895CC8449051E5303923DB8262281B7.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Walk_Cue.uasset'
+[2025.05.30-19.13.42:168][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.748 ms (total: 130.898 ms)
+[2025.05.30-19.13.42:195][751]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-19.13.42:195][751]LogContentValidation: Enabled validators:
+[2025.05.30-19.13.42:195][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-19.13.42:195][751]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-19.13.42:195][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-19.13.42:195][751]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-19.13.42:195][751]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-19.13.42:195][751]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-19.13.42:195][751]AssetCheck: /Game/SFX/Walk_Cue Validating asset
+[2025.05.30-19.13.50:958][187]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/SFX/running-14658_Cue.running-14658_Cue
+[2025.05.30-19.13.55:012][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-19.13.55:039][643]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SFX/running-14658_Cue] ([1] browsable assets)...
+[2025.05.30-19.13.55:040][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/SFX/running-14658_Cue]
+[2025.05.30-19.13.55:043][643]LogSavePackage: Moving output files for package: /Game/SFX/running-14658_Cue
+[2025.05.30-19.13.55:044][643]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/running-14658_Cue0C22F55E4C0D1B3D0FA06DADBAE42A94.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/running-14658_Cue.uasset'
+[2025.05.30-19.13.55:054][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.137 ms (total: 173.036 ms)
+[2025.05.30-19.13.55:081][643]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-19.13.55:081][643]LogContentValidation: Enabled validators:
+[2025.05.30-19.13.55:081][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-19.13.55:081][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-19.13.55:081][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-19.13.55:081][643]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-19.13.55:081][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-19.13.55:081][643]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-19.13.55:081][643]AssetCheck: /Game/SFX/running-14658_Cue Validating asset
+[2025.05.30-19.13.56:662][824]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.30-19.13.56:670][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.30-19.13.56:670][824]LogPlayLevel: Creating play world package: /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.30-19.13.56:674][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004580s)
+[2025.05.30-19.13.56:674][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfimaGames/FreeFPSTemplate/Maps/L_Playground.L_Playground to /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground (0.004607s)
+[2025.05.30-19.13.56:695][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.05.30-19.13.56:696][824]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Playground
+[2025.05.30-19.13.56:697][824]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2025.05.30-19.13.56:697][824]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.05.30-19.13.56:697][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.30-19.13.56:697][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.30-19.13.56:698][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.30-19.13.56:698][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.30-19.13.56:698][824]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.30-19.13.56:698][824]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.30-19.13.56:698][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.30-19.13.56:698][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.30-19.13.56:698][824]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.30-19.13.56:698][824]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.30-19.13.56:698][824]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.30-19.13.56:699][824]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.30-19.13.56:802][824]LogAudioMixer: Display: Using Audio Hardware Device 耳麥式耳機 (CORSAIR VIRTUOSO Wireless Gaming Headset)
+[2025.05.30-19.13.56:802][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.30-19.13.56:802][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.30-19.13.56:802][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.30-19.13.56:803][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.05.30-19.13.56:803][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2025.05.30-19.13.56:806][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.05.30-19.13.56:806][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.05.30-19.13.56:806][824]LogInit: FAudioDevice initialized with ID 7.
+[2025.05.30-19.13.56:806][824]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_Playground'.
+[2025.05.30-19.13.56:806][824]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.30-19.13.56:828][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-19.13.56:829][824]LogLoad: Game class is 'GM_FPS_C'
+[2025.05.30-19.13.56:839][824]LogWorld: Bringing World /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground.L_Playground up for play (max tick rate 0) at 2025.05.31-05.13.56
+[2025.05.30-19.13.56:842][824]LogWorld: Bringing up level for play took: 0.012748
+[2025.05.30-19.13.56:844][824]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.05.30-19.13.56:845][824]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.30-19.13.56:845][824]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.30-19.13.56:851][824]PIE: Server logged in
+[2025.05.30-19.13.56:852][824]PIE: Play in editor total start time 0.182 seconds.
+[2025.05.30-19.13.56:882][824]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'BGM_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.05.30-19.14.07:585][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-19.14.07:585][849]LogWorld: BeginTearingDown for /Game/InfimaGames/FreeFPSTemplate/Maps/UEDPIE_0_L_Playground
+[2025.05.30-19.14.07:586][849]LogSlate: Window 'BababooeyProjectGunstride Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.30-19.14.07:592][849]LogWorld: UWorld::CleanupWorld for L_Playground, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-19.14.07:594][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-19.14.07:597][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.30-19.14.07:599][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-19.14.07:606][849]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.30-19.14.07:608][849]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.30-19.14.07:608][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.30-19.14.07:610][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.30-19.14.07:622][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.05.30-19.14.07:683][851]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.05.30-19.14.15:843][773]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/SFX/Shoot_Cue.Shoot_Cue
+[2025.05.30-19.14.19:144][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-19.14.19:171][145]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SFX/Shoot_Cue] ([1] browsable assets)...
+[2025.05.30-19.14.19:171][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/SFX/Shoot_Cue]
+[2025.05.30-19.14.19:171][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Shoot_Cue" FILE="../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Shoot_Cue.uasset" SILENT=true
+[2025.05.30-19.14.19:174][145]LogSavePackage: Moving output files for package: /Game/SFX/Shoot_Cue
+[2025.05.30-19.14.19:175][145]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/Shoot_Cue6C1131DD4AE8905A9D8B45912EFC0BE7.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Shoot_Cue.uasset'
+[2025.05.30-19.14.19:185][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.348 ms (total: 214.384 ms)
+[2025.05.30-19.14.19:213][145]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-19.14.19:213][145]LogContentValidation: Enabled validators:
+[2025.05.30-19.14.19:213][145]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-19.14.19:213][145]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-19.14.19:213][145]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-19.14.19:213][145]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-19.14.19:213][145]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-19.14.19:213][145]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-19.14.19:213][145]AssetCheck: /Game/SFX/Shoot_Cue Validating asset
+[2025.05.30-19.14.20:249][263]LogSlate: Window 'Shoot_Cue' being destroyed
+[2025.05.30-19.14.20:257][263]LogSlate: Window 'Shoot_Cue' being destroyed
