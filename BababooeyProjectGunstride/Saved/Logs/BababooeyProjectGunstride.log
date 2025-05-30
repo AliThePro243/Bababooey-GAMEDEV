@@ -1833,3 +1833,82 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.30-19.14.19:213][145]AssetCheck: /Game/SFX/Shoot_Cue Validating asset
 [2025.05.30-19.14.20:249][263]LogSlate: Window 'Shoot_Cue' being destroyed
 [2025.05.30-19.14.20:257][263]LogSlate: Window 'Shoot_Cue' being destroyed
+[2025.05.30-19.15.18:017][ 26]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.05.30-19.15.44:831][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.05.30-19.15.48:772][978]LogSlate: Window 'Save Content' being destroyed
+[2025.05.30-19.15.48:781][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-19.15.48:806][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SFX/Shoot] ([1] browsable assets)...
+[2025.05.30-19.15.48:808][978]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SFX/Shoot.Shoot]
+[2025.05.30-19.15.48:808][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/SFX/Shoot]
+[2025.05.30-19.15.48:808][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Shoot" FILE="../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Shoot.uasset" SILENT=true
+[2025.05.30-19.15.48:812][978]LogSavePackage: Moving output files for package: /Game/SFX/Shoot
+[2025.05.30-19.15.48:812][978]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/Shoot67F976124D5592444950CEBB13E6E0DB.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Shoot.uasset'
+[2025.05.30-19.15.48:848][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.045 ms (total: 281.430 ms)
+[2025.05.30-19.15.48:848][978]LogStreaming: Display: FlushAsyncLoading(338): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.30-19.15.48:943][978]LogStaticMesh: Display: Building static mesh Box_4EA83B2D (Required Memory Estimate: 0.027864 MB)...
+[2025.05.30-19.15.48:943][978]LogStaticMesh: Display: Building static mesh Box_A808FA7A (Required Memory Estimate: 0.040682 MB)...
+[2025.05.30-19.15.48:943][978]LogStaticMesh: Display: Building static mesh Box_D5D57643 (Required Memory Estimate: 0.027864 MB)...
+[2025.05.30-19.15.48:943][978]LogStaticMesh: Display: Building static mesh Box_5062A92A (Required Memory Estimate: 0.027864 MB)...
+[2025.05.30-19.15.48:943][978]LogStaticMesh: Display: Building static mesh Box_9CABC0AB (Required Memory Estimate: 0.027864 MB)...
+[2025.05.30-19.15.48:943][978]LogStaticMesh: Display: Building static mesh SM_door_frame (Required Memory Estimate: 0.141926 MB)...
+[2025.05.30-19.15.48:946][978]LogStaticMesh: Built static mesh [0.01s] /Game/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/Box_5062A92A.Box_5062A92A
+[2025.05.30-19.15.48:946][978]LogStaticMesh: Built static mesh [0.01s] /Game/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/Box_A808FA7A.Box_A808FA7A
+[2025.05.30-19.15.48:946][978]LogStaticMesh: Built static mesh [0.01s] /Game/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/Box_9CABC0AB.Box_9CABC0AB
+[2025.05.30-19.15.48:946][978]LogStaticMesh: Built static mesh [0.01s] /Game/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/Box_D5D57643.Box_D5D57643
+[2025.05.30-19.15.48:948][978]LogStaticMesh: Built static mesh [0.01s] /Game/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/Box_4EA83B2D.Box_4EA83B2D
+[2025.05.30-19.15.48:949][978]LogStaticMesh: Built static mesh [0.01s] /Game/Laboratory/StaticMeshes/SM_door_frame.SM_door_frame
+[2025.05.30-19.15.48:964][978]LogStaticMesh: Display: Building static mesh Nordic_Beach_Rock_Formation_vckqccbga_High (Required Memory Estimate: 29.263861 MB)...
+[2025.05.30-19.15.48:967][978]LogStaticMesh: Display: Building static mesh Ground__House_in_the_woods_project_ (Required Memory Estimate: 127.069998 MB)...
+[2025.05.30-19.15.48:967][978]LogStaticMesh: Display: Building static mesh RockWall (Required Memory Estimate: 3537.514443 MB)...
+[2025.05.30-19.15.48:992][978]LogStaticMesh: Display: Building static mesh SM_AltFloor_A (Required Memory Estimate: 0.056363 MB)...
+[2025.05.30-19.15.48:992][978]LogStaticMesh: Display: Building static mesh SM_Floor_C (Required Memory Estimate: 0.056363 MB)...
+[2025.05.30-19.15.48:992][978]LogStaticMesh: Display: Building static mesh SM_Ceiling_B (Required Memory Estimate: 0.493863 MB)...
+[2025.05.30-19.15.48:997][978]LogStaticMesh: Built static mesh [0.01s] /Game/StarterBundle/ModularScifiProps/Meshes/SM_Floor_C.SM_Floor_C
+[2025.05.30-19.15.48:998][978]LogStaticMesh: Built static mesh [0.01s] /Game/StarterBundle/ModularScifiProps/Meshes/SM_AltFloor_A.SM_AltFloor_A
+[2025.05.30-19.15.49:001][978]LogTexture: Display: Building textures: /Game/Laboratory/Textures/T_Roughness_4K_vdxibet.T_Roughness_4K_vdxibet (TFO_BC4, 4096x4096 x1x1x1) (Required Memory Estimate: 1067.499987 MB), EncodeSpeed: Fast
+[2025.05.30-19.15.49:009][978]LogStaticMesh: Built static mesh [0.02s] /Game/StarterBundle/ModularScifiProps/Meshes/SM_Ceiling_B.SM_Ceiling_B
+[2025.05.30-19.15.49:018][978]LogTexture: Display: Building textures: /Game/Laboratory/Textures/T_Albedo_4K_vdxibet.T_Albedo_4K_vdxibet (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.05.30-19.15.49:057][978]LogTexture: Display: Building textures: /Game/Laboratory/Textures/T_Normal_4K_vdxibet.T_Normal_4K_vdxibet (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.15.49:097][978]LogChaosDD: Creating Chaos Debug Draw Scene for world level
+[2025.05.30-19.15.49:126][978]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Flat_Portal_v2_0_03_unwrapped_realigned_NOT_flipped_03) ...
+[2025.05.30-19.15.49:131][978]LogStaticMesh: Adjacency [0.01s], tris: 19132, UVs 1
+[2025.05.30-19.15.49:173][978]LogStaticMesh: Clustering [0.04s]. Ratio: 1.013333
+[2025.05.30-19.15.49:176][978]LogStaticMesh: Leaves [0.00s]
+[2025.05.30-19.15.49:361][978]LogStaticMesh: Adjacency [0.04s], tris: 83232, UVs 1
+[2025.05.30-19.15.49:477][978]LogStaticMesh: Clustering [0.12s]. Ratio: 1.016897
+[2025.05.30-19.15.49:486][978]LogStaticMesh: Leaves [0.01s]
+[2025.05.30-19.15.49:804][978]LogStaticMesh: Reduce [0.63s]
+[2025.05.30-19.15.49:926][978]LogStaticMesh: Reduce [0.44s]
+[2025.05.30-19.15.49:933][978]LogStaticMesh: Fallback [0.13s], num tris: 5289
+[2025.05.30-19.15.49:936][978]LogStaticMesh: ConstrainClusters:
+[2025.05.30-19.15.49:936][978]LogStaticMesh:   Input: 311 Clusters, 39139 Triangles and 26932 Vertices
+[2025.05.30-19.15.49:936][978]LogStaticMesh:   Output without splits: 311 Clusters, 39139 Triangles and 27685 Vertices
+[2025.05.30-19.15.49:936][978]LogStaticMesh:   Output with splits: 311 Clusters, 39139 Triangles and 27685 Vertices
+[2025.05.30-19.15.49:937][978]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 311, Slow Path Clusters: 0, 1 Material: 311, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.30-19.15.49:939][978]LogStaticMesh: WritePages:
+[2025.05.30-19.15.49:939][978]LogStaticMesh:   Root: GPU size: 32584 bytes. 1 Pages. 32584.000 bytes per page (99.438% utilization).
+[2025.05.30-19.15.49:939][978]LogStaticMesh:   Streaming: GPU size: 358216 bytes. 3 Pages (3 with relative encoding). 119405.336 bytes per page (91.099% utilization).
+[2025.05.30-19.15.49:939][978]LogStaticMesh:   Page data disk size: 324216 bytes. Fixup data size: 1400 bytes.
+[2025.05.30-19.15.49:939][978]LogStaticMesh:   Total GPU size: 390800 bytes, Total disk size: 325616 bytes.
+[2025.05.30-19.15.49:939][978]LogStaticMesh: Encode [0.01s]
+[2025.05.30-19.15.49:939][978]LogStaticMesh: Nanite build [0.82s]
+
+[2025.05.30-19.15.49:949][978]LogStaticMesh: Fallback [0.02s], num tris: 453
+[2025.05.30-19.15.49:951][978]LogStaticMesh: Built static mesh [0.99s] /Game/nordic_beach_rock_formation_vckqccbga_high/Nordic_Beach_Rock_Formation_vckqccbga_High.Nordic_Beach_Rock_Formation_vckqccbga_High
+[2025.05.30-19.15.49:957][978]LogStaticMesh: ConstrainClusters:
+[2025.05.30-19.15.49:957][978]LogStaticMesh:   Input: 1360 Clusters, 171145 Triangles and 110683 Vertices
+[2025.05.30-19.15.49:957][978]LogStaticMesh:   Output without splits: 1360 Clusters, 171145 Triangles and 114819 Vertices
+[2025.05.30-19.15.49:957][978]LogStaticMesh:   Output with splits: 1360 Clusters, 171145 Triangles and 114819 Vertices
+[2025.05.30-19.15.49:958][978]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1360, Slow Path Clusters: 0, 1 Material: 1360, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.30-19.15.49:964][978]LogStaticMesh: WritePages:
+[2025.05.30-19.15.49:964][978]LogStaticMesh:   Root: GPU size: 32696 bytes. 1 Pages. 32696.000 bytes per page (99.780% utilization).
+[2025.05.30-19.15.49:964][978]LogStaticMesh:   Streaming: GPU size: 1592012 bytes. 13 Pages (13 with relative encoding). 122462.461 bytes per page (93.431% utilization).
+[2025.05.30-19.15.49:964][978]LogStaticMesh:   Page data disk size: 1339616 bytes. Fixup data size: 7496 bytes.
+[2025.05.30-19.15.49:964][978]LogStaticMesh:   Total GPU size: 1624708 bytes, Total disk size: 1347112 bytes.
+[2025.05.30-19.15.49:964][978]LogStaticMesh: Encode [0.01s]
+[2025.05.30-19.15.49:964][978]LogStaticMesh: Nanite build [0.65s]
+
+[2025.05.30-19.15.49:967][978]LogStaticMesh: Built static mesh [1.01s] /Game/ground-house-in-the-woods-project/source/Ground__House_in_the_woods_project_.Ground__House_in_the_woods_project_
+[2025.05.30-19.15.56:520][978]LogStaticMesh: Adjacency [0.30s], tris: 2318142, UVs 1
+[2025.05.30-19.15.57:778][978]LogStaticMesh: Clustering [1.26s]. Ratio: 1.017227
+[2025.05.30-19.15.57:806][978]LogStaticMesh: Leaves [0.03s]
