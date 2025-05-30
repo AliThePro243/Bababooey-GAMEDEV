@@ -1833,3 +1833,471 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.30-19.14.19:213][145]AssetCheck: /Game/SFX/Shoot_Cue Validating asset
 [2025.05.30-19.14.20:249][263]LogSlate: Window 'Shoot_Cue' being destroyed
 [2025.05.30-19.14.20:257][263]LogSlate: Window 'Shoot_Cue' being destroyed
+[2025.05.30-19.15.18:017][ 26]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.05.30-19.15.44:831][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.05.30-19.15.48:772][978]LogSlate: Window 'Save Content' being destroyed
+[2025.05.30-19.15.48:781][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-19.15.48:806][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SFX/Shoot] ([1] browsable assets)...
+[2025.05.30-19.15.48:808][978]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SFX/Shoot.Shoot]
+[2025.05.30-19.15.48:808][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/SFX/Shoot]
+[2025.05.30-19.15.48:808][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Shoot" FILE="../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Shoot.uasset" SILENT=true
+[2025.05.30-19.15.48:812][978]LogSavePackage: Moving output files for package: /Game/SFX/Shoot
+[2025.05.30-19.15.48:812][978]LogSavePackage: Moving '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/Shoot67F976124D5592444950CEBB13E6E0DB.tmp' to '../../../../../../Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Shoot.uasset'
+[2025.05.30-19.15.48:848][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.045 ms (total: 281.430 ms)
+[2025.05.30-19.15.48:848][978]LogStreaming: Display: FlushAsyncLoading(338): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.30-19.15.48:943][978]LogStaticMesh: Display: Building static mesh Box_4EA83B2D (Required Memory Estimate: 0.027864 MB)...
+[2025.05.30-19.15.48:943][978]LogStaticMesh: Display: Building static mesh Box_A808FA7A (Required Memory Estimate: 0.040682 MB)...
+[2025.05.30-19.15.48:943][978]LogStaticMesh: Display: Building static mesh Box_D5D57643 (Required Memory Estimate: 0.027864 MB)...
+[2025.05.30-19.15.48:943][978]LogStaticMesh: Display: Building static mesh Box_5062A92A (Required Memory Estimate: 0.027864 MB)...
+[2025.05.30-19.15.48:943][978]LogStaticMesh: Display: Building static mesh Box_9CABC0AB (Required Memory Estimate: 0.027864 MB)...
+[2025.05.30-19.15.48:943][978]LogStaticMesh: Display: Building static mesh SM_door_frame (Required Memory Estimate: 0.141926 MB)...
+[2025.05.30-19.15.48:946][978]LogStaticMesh: Built static mesh [0.01s] /Game/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/Box_5062A92A.Box_5062A92A
+[2025.05.30-19.15.48:946][978]LogStaticMesh: Built static mesh [0.01s] /Game/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/Box_A808FA7A.Box_A808FA7A
+[2025.05.30-19.15.48:946][978]LogStaticMesh: Built static mesh [0.01s] /Game/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/Box_9CABC0AB.Box_9CABC0AB
+[2025.05.30-19.15.48:946][978]LogStaticMesh: Built static mesh [0.01s] /Game/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/Box_D5D57643.Box_D5D57643
+[2025.05.30-19.15.48:948][978]LogStaticMesh: Built static mesh [0.01s] /Game/InfimaGames/FreeFPSTemplate/Harley/_GENERATED/redey/Box_4EA83B2D.Box_4EA83B2D
+[2025.05.30-19.15.48:949][978]LogStaticMesh: Built static mesh [0.01s] /Game/Laboratory/StaticMeshes/SM_door_frame.SM_door_frame
+[2025.05.30-19.15.48:964][978]LogStaticMesh: Display: Building static mesh Nordic_Beach_Rock_Formation_vckqccbga_High (Required Memory Estimate: 29.263861 MB)...
+[2025.05.30-19.15.48:967][978]LogStaticMesh: Display: Building static mesh Ground__House_in_the_woods_project_ (Required Memory Estimate: 127.069998 MB)...
+[2025.05.30-19.15.48:967][978]LogStaticMesh: Display: Building static mesh RockWall (Required Memory Estimate: 3537.514443 MB)...
+[2025.05.30-19.15.48:992][978]LogStaticMesh: Display: Building static mesh SM_AltFloor_A (Required Memory Estimate: 0.056363 MB)...
+[2025.05.30-19.15.48:992][978]LogStaticMesh: Display: Building static mesh SM_Floor_C (Required Memory Estimate: 0.056363 MB)...
+[2025.05.30-19.15.48:992][978]LogStaticMesh: Display: Building static mesh SM_Ceiling_B (Required Memory Estimate: 0.493863 MB)...
+[2025.05.30-19.15.48:997][978]LogStaticMesh: Built static mesh [0.01s] /Game/StarterBundle/ModularScifiProps/Meshes/SM_Floor_C.SM_Floor_C
+[2025.05.30-19.15.48:998][978]LogStaticMesh: Built static mesh [0.01s] /Game/StarterBundle/ModularScifiProps/Meshes/SM_AltFloor_A.SM_AltFloor_A
+[2025.05.30-19.15.49:001][978]LogTexture: Display: Building textures: /Game/Laboratory/Textures/T_Roughness_4K_vdxibet.T_Roughness_4K_vdxibet (TFO_BC4, 4096x4096 x1x1x1) (Required Memory Estimate: 1067.499987 MB), EncodeSpeed: Fast
+[2025.05.30-19.15.49:009][978]LogStaticMesh: Built static mesh [0.02s] /Game/StarterBundle/ModularScifiProps/Meshes/SM_Ceiling_B.SM_Ceiling_B
+[2025.05.30-19.15.49:018][978]LogTexture: Display: Building textures: /Game/Laboratory/Textures/T_Albedo_4K_vdxibet.T_Albedo_4K_vdxibet (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.05.30-19.15.49:057][978]LogTexture: Display: Building textures: /Game/Laboratory/Textures/T_Normal_4K_vdxibet.T_Normal_4K_vdxibet (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.15.49:097][978]LogChaosDD: Creating Chaos Debug Draw Scene for world level
+[2025.05.30-19.15.49:126][978]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Flat_Portal_v2_0_03_unwrapped_realigned_NOT_flipped_03) ...
+[2025.05.30-19.15.49:131][978]LogStaticMesh: Adjacency [0.01s], tris: 19132, UVs 1
+[2025.05.30-19.15.49:173][978]LogStaticMesh: Clustering [0.04s]. Ratio: 1.013333
+[2025.05.30-19.15.49:176][978]LogStaticMesh: Leaves [0.00s]
+[2025.05.30-19.15.49:361][978]LogStaticMesh: Adjacency [0.04s], tris: 83232, UVs 1
+[2025.05.30-19.15.49:477][978]LogStaticMesh: Clustering [0.12s]. Ratio: 1.016897
+[2025.05.30-19.15.49:486][978]LogStaticMesh: Leaves [0.01s]
+[2025.05.30-19.15.49:804][978]LogStaticMesh: Reduce [0.63s]
+[2025.05.30-19.15.49:926][978]LogStaticMesh: Reduce [0.44s]
+[2025.05.30-19.15.49:933][978]LogStaticMesh: Fallback [0.13s], num tris: 5289
+[2025.05.30-19.15.49:936][978]LogStaticMesh: ConstrainClusters:
+[2025.05.30-19.15.49:936][978]LogStaticMesh:   Input: 311 Clusters, 39139 Triangles and 26932 Vertices
+[2025.05.30-19.15.49:936][978]LogStaticMesh:   Output without splits: 311 Clusters, 39139 Triangles and 27685 Vertices
+[2025.05.30-19.15.49:936][978]LogStaticMesh:   Output with splits: 311 Clusters, 39139 Triangles and 27685 Vertices
+[2025.05.30-19.15.49:937][978]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 311, Slow Path Clusters: 0, 1 Material: 311, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.30-19.15.49:939][978]LogStaticMesh: WritePages:
+[2025.05.30-19.15.49:939][978]LogStaticMesh:   Root: GPU size: 32584 bytes. 1 Pages. 32584.000 bytes per page (99.438% utilization).
+[2025.05.30-19.15.49:939][978]LogStaticMesh:   Streaming: GPU size: 358216 bytes. 3 Pages (3 with relative encoding). 119405.336 bytes per page (91.099% utilization).
+[2025.05.30-19.15.49:939][978]LogStaticMesh:   Page data disk size: 324216 bytes. Fixup data size: 1400 bytes.
+[2025.05.30-19.15.49:939][978]LogStaticMesh:   Total GPU size: 390800 bytes, Total disk size: 325616 bytes.
+[2025.05.30-19.15.49:939][978]LogStaticMesh: Encode [0.01s]
+[2025.05.30-19.15.49:939][978]LogStaticMesh: Nanite build [0.82s]
+
+[2025.05.30-19.15.49:949][978]LogStaticMesh: Fallback [0.02s], num tris: 453
+[2025.05.30-19.15.49:951][978]LogStaticMesh: Built static mesh [0.99s] /Game/nordic_beach_rock_formation_vckqccbga_high/Nordic_Beach_Rock_Formation_vckqccbga_High.Nordic_Beach_Rock_Formation_vckqccbga_High
+[2025.05.30-19.15.49:957][978]LogStaticMesh: ConstrainClusters:
+[2025.05.30-19.15.49:957][978]LogStaticMesh:   Input: 1360 Clusters, 171145 Triangles and 110683 Vertices
+[2025.05.30-19.15.49:957][978]LogStaticMesh:   Output without splits: 1360 Clusters, 171145 Triangles and 114819 Vertices
+[2025.05.30-19.15.49:957][978]LogStaticMesh:   Output with splits: 1360 Clusters, 171145 Triangles and 114819 Vertices
+[2025.05.30-19.15.49:958][978]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1360, Slow Path Clusters: 0, 1 Material: 1360, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.30-19.15.49:964][978]LogStaticMesh: WritePages:
+[2025.05.30-19.15.49:964][978]LogStaticMesh:   Root: GPU size: 32696 bytes. 1 Pages. 32696.000 bytes per page (99.780% utilization).
+[2025.05.30-19.15.49:964][978]LogStaticMesh:   Streaming: GPU size: 1592012 bytes. 13 Pages (13 with relative encoding). 122462.461 bytes per page (93.431% utilization).
+[2025.05.30-19.15.49:964][978]LogStaticMesh:   Page data disk size: 1339616 bytes. Fixup data size: 7496 bytes.
+[2025.05.30-19.15.49:964][978]LogStaticMesh:   Total GPU size: 1624708 bytes, Total disk size: 1347112 bytes.
+[2025.05.30-19.15.49:964][978]LogStaticMesh: Encode [0.01s]
+[2025.05.30-19.15.49:964][978]LogStaticMesh: Nanite build [0.65s]
+
+[2025.05.30-19.15.49:967][978]LogStaticMesh: Built static mesh [1.01s] /Game/ground-house-in-the-woods-project/source/Ground__House_in_the_woods_project_.Ground__House_in_the_woods_project_
+[2025.05.30-19.15.56:520][978]LogStaticMesh: Adjacency [0.30s], tris: 2318142, UVs 1
+[2025.05.30-19.15.57:778][978]LogStaticMesh: Clustering [1.26s]. Ratio: 1.017227
+[2025.05.30-19.15.57:806][978]LogStaticMesh: Leaves [0.03s]
+[2025.05.30-19.16.04:653][978]LogStaticMesh: Reduce [6.84s]
+[2025.05.30-19.16.04:977][978]LogStaticMesh: Fallback [0.32s], num tris: 13784
+[2025.05.30-19.16.05:164][978]LogStaticMesh: ConstrainClusters:
+[2025.05.30-19.16.05:164][978]LogStaticMesh:   Input: 37778 Clusters, 4755735 Triangles and 3147230 Vertices
+[2025.05.30-19.16.05:164][978]LogStaticMesh:   Output without splits: 37778 Clusters, 4755735 Triangles and 3258828 Vertices
+[2025.05.30-19.16.05:164][978]LogStaticMesh:   Output with splits: 37778 Clusters, 4755735 Triangles and 3258828 Vertices
+[2025.05.30-19.16.05:176][978]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 37778, Slow Path Clusters: 0, 1 Material: 37778, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.30-19.16.05:402][978]LogStaticMesh: WritePages:
+[2025.05.30-19.16.05:402][978]LogStaticMesh:   Root: GPU size: 31920 bytes. 1 Pages. 31920.000 bytes per page (97.412% utilization).
+[2025.05.30-19.16.05:402][978]LogStaticMesh:   Streaming: GPU size: 39515492 bytes. 303 Pages (293 with relative encoding). 130414.164 bytes per page (99.498% utilization).
+[2025.05.30-19.16.05:402][978]LogStaticMesh:   Page data disk size: 32773628 bytes. Fixup data size: 225904 bytes.
+[2025.05.30-19.16.05:402][978]LogStaticMesh:   Total GPU size: 39547412 bytes, Total disk size: 32999532 bytes.
+[2025.05.30-19.16.05:411][978]LogStaticMesh: Encode [0.43s]
+[2025.05.30-19.16.05:412][978]LogStaticMesh: Nanite build [9.19s]
+
+[2025.05.30-19.16.05:498][978]LogStaticMesh: Built static mesh [16.54s] /Game/rock-wall-scan/source/RockWall.RockWall
+[2025.05.30-19.16.11:270][978]LogStaticMesh: Display: Building static mesh SM_strong_3X1_ (Required Memory Estimate: 0.202955 MB)...
+[2025.05.30-19.16.11:270][978]LogStaticMesh: Display: Building static mesh SM_Big_Door (Required Memory Estimate: 2.126143 MB)...
+[2025.05.30-19.16.11:270][978]LogSkeletalMesh: Building Skeletal Mesh Flat_Portal_v2_0_03_unwrapped_realigned_NOT_flipped_03...
+[2025.05.30-19.16.11:270][978]LogStaticMesh: Display: Building static mesh Sci-Fi_Door_anim (Required Memory Estimate: 7.958106 MB)...
+[2025.05.30-19.16.11:272][978]LogStaticMesh: Display: Building static mesh SM_Wall_A (Required Memory Estimate: 0.235606 MB)...
+[2025.05.30-19.16.11:274][978]LogStaticMesh: Built static mesh [0.01s] /Game/Laboratory/StaticMeshes/SM_strong_3X1_.SM_strong_3X1_
+[2025.05.30-19.16.11:278][978]LogStaticMesh: Display: Building static mesh SM_Floor_Window_D (Required Memory Estimate: 2.148781 MB)...
+[2025.05.30-19.16.11:282][978]LogStaticMesh: Display: Building static mesh SM_CeilingLight (Required Memory Estimate: 3.433997 MB)...
+[2025.05.30-19.16.11:283][978]LogStaticMesh: Built static mesh [0.02s] /Game/Laboratory/StaticMeshes/SM_Big_Door.SM_Big_Door
+[2025.05.30-19.16.11:285][978]LogStaticMesh: Built static mesh [0.01s] /Game/StarterBundle/ModularScifiProps/Meshes/SM_Wall_A.SM_Wall_A
+[2025.05.30-19.16.11:286][978]LogStaticMesh: Built static mesh [0.01s] /Game/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Window_D.SM_Floor_Window_D
+[2025.05.30-19.16.11:286][978]LogStaticMesh: Display: Building static mesh lowL (Required Memory Estimate: 0.767588 MB)...
+[2025.05.30-19.16.11:289][978]LogStaticMesh: Display: Building static mesh SM_Ceiling_B_4 (Required Memory Estimate: 0.439496 MB)...
+[2025.05.30-19.16.11:289][978]LogStaticMesh: Adjacency [0.00s], tris: 480, UVs 1
+[2025.05.30-19.16.11:289][978]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.05.30-19.16.11:289][978]LogStaticMesh: Leaves [0.00s]
+[2025.05.30-19.16.11:290][978]LogStaticMesh: Display: Building static mesh SM_Wall_Detail_A (Required Memory Estimate: 1.104111 MB)...
+[2025.05.30-19.16.11:295][978]LogStaticMesh: Built static mesh [0.00s] /Game/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Detail_A.SM_Wall_Detail_A
+[2025.05.30-19.16.11:297][978]LogStaticMesh: Adjacency [0.00s], tris: 5020, UVs 1
+[2025.05.30-19.16.11:301][978]LogStaticMesh: Display: Building static mesh SM_Light_A (Required Memory Estimate: 7.180118 MB)...
+[2025.05.30-19.16.11:308][978]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.05.30-19.16.11:309][978]LogStaticMesh: Leaves [0.00s]
+[2025.05.30-19.16.11:309][978]LogStaticMesh: Reduce [0.02s]
+[2025.05.30-19.16.11:310][978]LogStaticMesh: Display: Building static mesh SM_Stairs_A_Straight (Required Memory Estimate: 12.942539 MB)...
+[2025.05.30-19.16.11:313][978]LogStaticMesh: Built static mesh [0.03s] /Game/StarterBundle/ModularSci_Int/Meshes/SM_Ceiling_B_4.SM_Ceiling_B_4
+[2025.05.30-19.16.11:318][978]LogStaticMesh: Display: Building static mesh SM_FloorBuffer_B (Required Memory Estimate: 0.292383 MB)...
+[2025.05.30-19.16.11:319][978]LogStaticMesh: Built static mesh [0.02s] /Game/StarterBundle/ModularSci_Comm/Meshes/SM_Light_A.SM_Light_A
+[2025.05.30-19.16.11:320][978]LogStaticMesh: Fallback [0.01s], num tris: 326
+[2025.05.30-19.16.11:322][978]LogStaticMesh: ConstrainClusters:
+[2025.05.30-19.16.11:322][978]LogStaticMesh:   Input: 7 Clusters, 858 Triangles and 1874 Vertices
+[2025.05.30-19.16.11:323][978]LogStaticMesh:   Output without splits: 7 Clusters, 858 Triangles and 1874 Vertices
+[2025.05.30-19.16.11:323][978]LogStaticMesh:   Output with splits: 13 Clusters, 858 Triangles and 1876 Vertices
+[2025.05.30-19.16.11:323][978]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 13, Slow Path Clusters: 0, 1 Material: 13, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.30-19.16.11:323][978]LogStaticMesh: WritePages:
+[2025.05.30-19.16.11:323][978]LogStaticMesh:   Root: GPU size: 19224 bytes. 1 Pages. 19224.000 bytes per page (58.667% utilization).
+[2025.05.30-19.16.11:323][978]LogStaticMesh:   Streaming: 0 bytes.
+[2025.05.30-19.16.11:323][978]LogStaticMesh:   Page data disk size: 19272 bytes. Fixup data size: 56 bytes.
+[2025.05.30-19.16.11:323][978]LogStaticMesh:   Total GPU size: 19224 bytes, Total disk size: 19328 bytes.
+[2025.05.30-19.16.11:323][978]LogStaticMesh: Encode [0.00s]
+[2025.05.30-19.16.11:323][978]LogStaticMesh: Nanite build [0.03s]
+
+[2025.05.30-19.16.11:324][978]LogStaticMesh: Display: Building static mesh SM_Ceiling_C (Required Memory Estimate: 8.749813 MB)...
+[2025.05.30-19.16.11:324][978]LogStaticMesh: Built static mesh [0.04s] /Game/Door/lowL.lowL
+[2025.05.30-19.16.11:329][978]LogStaticMesh: Display: Building static mesh SM_FloorPanel_A (Required Memory Estimate: 0.604573 MB)...
+[2025.05.30-19.16.11:333][978]LogStaticMesh: Display: Building static mesh SM_FloorPanel_A_2 (Required Memory Estimate: 1.562099 MB)...
+[2025.05.30-19.16.11:335][978]LogStaticMesh: Built static mesh [0.02s] /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B
+[2025.05.30-19.16.11:336][978]LogStaticMesh: Built static mesh [0.01s] /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A
+[2025.05.30-19.16.11:343][978]LogStaticMesh: Built static mesh [0.03s] /Game/StarterBundle/ModularSci_Comm/Meshes/SM_Stairs_A_Straight.SM_Stairs_A_Straight
+[2025.05.30-19.16.11:343][978]LogStaticMesh: Built static mesh [0.01s] /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2
+[2025.05.30-19.16.11:352][978]LogStaticMesh: Display: Building static mesh SM_Hall_Floor_Main (Required Memory Estimate: 3.558713 MB)...
+[2025.05.30-19.16.11:354][978]LogStaticMesh: Built static mesh [0.03s] /Game/StarterBundle/ModularSci_Int/Meshes/SM_Ceiling_C.SM_Ceiling_C
+[2025.05.30-19.16.11:355][978]LogStaticMesh: Display: Building static mesh SM_Hall_Floor_Sec_C_2 (Required Memory Estimate: 1.993003 MB)...
+[2025.05.30-19.16.11:357][978]LogStaticMesh: Display: Building static mesh SM_Wall_A_2 (Required Memory Estimate: 4.947803 MB)...
+[2025.05.30-19.16.11:358][978]LogStaticMesh: Display: Building static mesh SM_Hall_Win_Rails_B (Required Memory Estimate: 1.023301 MB)...
+[2025.05.30-19.16.11:361][978]LogStaticMesh: Built static mesh [0.01s] /Game/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Floor_Sec_C_2.SM_Hall_Floor_Sec_C_2
+[2025.05.30-19.16.11:361][978]LogStaticMesh: Built static mesh [0.00s] /Game/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Win_Rails_B.SM_Hall_Win_Rails_B
+[2025.05.30-19.16.11:363][978]LogStaticMesh: Built static mesh [0.01s] /Game/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Floor_Main.SM_Hall_Floor_Main
+[2025.05.30-19.16.11:367][978]LogStaticMesh: Display: Building static mesh SM_Hall_Wall_A (Required Memory Estimate: 0.593685 MB)...
+[2025.05.30-19.16.11:369][978]LogStaticMesh: Display: Building static mesh SM_Hall_Light_Square (Required Memory Estimate: 1.436361 MB)...
+[2025.05.30-19.16.11:369][978]LogStaticMesh: Built static mesh [0.00s] /Game/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Wall_A.SM_Hall_Wall_A
+[2025.05.30-19.16.11:371][978]LogStaticMesh: Built static mesh [0.09s] /Game/StarterBundle/ModularScifiProps/Meshes/SM_CeilingLight.SM_CeilingLight
+[2025.05.30-19.16.11:372][978]LogStaticMesh: Built static mesh [0.02s] /Game/StarterBundle/ModularSci_Int/Meshes/SM_Wall_A_2.SM_Wall_A_2
+[2025.05.30-19.16.11:374][978]LogStaticMesh: Built static mesh [0.01s] /Game/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Light_Square.SM_Hall_Light_Square
+[2025.05.30-19.16.11:375][978]LogStaticMesh: Display: Building static mesh SM_Hall_Wall_B (Required Memory Estimate: 3.174592 MB)...
+[2025.05.30-19.16.11:382][978]LogStaticMesh: Built static mesh [0.01s] /Game/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Wall_B.SM_Hall_Wall_B
+[2025.05.30-19.16.11:436][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSciFiMats/Textures/T_Metal_Brushed_M.T_Metal_Brushed_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.11:445][978]LogSkeletalMesh: Built Skeletal Mesh [0.18s] /Game/flat-portal-teleportation-pad/Flat_Portal_v2_0_03_unwrapped_realigned_NOT_flipped_03.Flat_Portal_v2_0_03_unwrapped_realigned_NOT_flipped_03
+[2025.05.30-19.16.11:448][978]LogStaticMesh: Reduce [0.14s]
+[2025.05.30-19.16.11:454][978]LogStaticMesh: Display: Building static mesh SM_Floor_Center_A3 (Required Memory Estimate: 67.033383 MB)...
+[2025.05.30-19.16.11:467][978]LogAssetEditorSubsystem: Opening Asset editor for World /Game/InfimaGames/FreeFPSTemplate/Harley/level.level
+[2025.05.30-19.16.11:484][978]LogTexture: Display: Building textures: /Game/mat_006_gravel/Mat_006_Gravel/GLB/Mat_006_gravel_BaseColor.Mat_006_gravel_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.11:484][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSciFiMats/Textures/T_Metal_Brushed_N.T_Metal_Brushed_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 427.499988 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.11:487][978]LogTexture: Display: Building textures: /Game/nordic_beach_rock_formation_vckqccbga_high/Nordic_Beach_Rock_Formation_vckqccbga_High_4K_BaseColor.Nordic_Beach_Rock_Formation_vckqccbga_High_4K_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.11:509][978]LogTexture: Display: Building textures: /Game/mat_006_gravel/Mat_006_Gravel/GLB/Mat_006_gravel_MetallicRoughness.Mat_006_gravel_MetallicRoughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.11:532][978]LogWorld: UWorld::CleanupWorld for L_Playground, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-19.16.11:532][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-19.16.11:544][978]LogTexture: Display: Building textures: /Game/mat_006_gravel/Mat_006_Gravel/GLB/Mat_006_gravel_Normal.Mat_006_gravel_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 259.499988 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.11:551][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.30-19.16.11:557][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.30-19.16.11:564][978]LogMaterial: Display: Material /InterchangeAssets/gltf/M_Default.M_Default needed to have new flag set bUsedWithNanite !
+[2025.05.30-19.16.11:573][978]MapCheck: Warning: M_Default Material /InterchangeAssets/gltf/M_Default.M_Default was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2025.05.30-19.16.11:576][978]LogStaticMesh: Fallback [0.13s], num tris: 2318
+[2025.05.30-19.16.11:592][978]LogStaticMesh: ConstrainClusters:
+[2025.05.30-19.16.11:592][978]LogStaticMesh:   Input: 84 Clusters, 10559 Triangles and 15569 Vertices
+[2025.05.30-19.16.11:592][978]LogStaticMesh:   Output without splits: 84 Clusters, 10559 Triangles and 15569 Vertices
+[2025.05.30-19.16.11:592][978]LogStaticMesh:   Output with splits: 84 Clusters, 10559 Triangles and 15569 Vertices
+[2025.05.30-19.16.11:592][978]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 84, Slow Path Clusters: 0, 1 Material: 84, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.30-19.16.11:598][978]LogStaticMesh: WritePages:
+[2025.05.30-19.16.11:598][978]LogStaticMesh:   Root: GPU size: 30596 bytes. 1 Pages. 30596.000 bytes per page (93.372% utilization).
+[2025.05.30-19.16.11:598][978]LogStaticMesh:   Streaming: GPU size: 155664 bytes. 2 Pages (2 with relative encoding). 77832.000 bytes per page (59.381% utilization).
+[2025.05.30-19.16.11:598][978]LogStaticMesh:   Page data disk size: 154128 bytes. Fixup data size: 480 bytes.
+[2025.05.30-19.16.11:598][978]LogStaticMesh:   Total GPU size: 186260 bytes, Total disk size: 154608 bytes.
+[2025.05.30-19.16.11:598][978]LogStaticMesh: Encode [0.02s]
+[2025.05.30-19.16.11:598][978]LogStaticMesh: Nanite build [0.30s]
+
+[2025.05.30-19.16.11:612][978]LogStaticMesh: Built static mesh [0.35s] /Game/add_ons/sci-fi-door__1_/source/Sci-Fi_Door_anim.Sci-Fi_Door_anim
+[2025.05.30-19.16.11:619][978]LogMaterial: Display: Material /Game/Laboratory/Materials/M_Metal.M_Metal needed to have new flag set bUsedWithNanite !
+[2025.05.30-19.16.11:625][978]MapCheck: Warning: M_Metal Material /Game/Laboratory/Materials/M_Metal.M_Metal was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2025.05.30-19.16.11:627][978]LogStaticMesh: Display: Waiting for static meshes to be ready 33/35 (/Game/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A3) ...
+[2025.05.30-19.16.11:642][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSciFiMats/Textures/T_Wall_E_normals.T_Wall_E_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.11:735][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSciFiMats/Textures/T_Wall_E_M.T_Wall_E_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.11:840][978]LogTexture: Display: Building textures: /Game/mat_006_gravel/Mat_006_Gravel/GLB/Texture_006_gravel_ao_Linear.Texture_006_gravel_ao_Linear (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.11:843][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiProps/Textures/T_Base_N_normals.T_Base_N_normals (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 259.499988 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.11:846][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiProps/Textures/T_Base_M.T_Base_M (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.583323 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.12:044][978]LogTexture: Display: Building textures: /Game/PortalMaterial/Textures/T_Noise_basecolor.T_Noise_basecolor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1088.999983 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.12:045][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSciFiMats/Textures/T_Wall_E_diff.T_Wall_E_diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.12:046][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiProps/Textures/T_Metal_Scratches_M.T_Metal_Scratches_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.12:058][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiProps/Textures/T_CardReader_N_normals.T_CardReader_N_normals (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 259.499988 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.12:143][978]LogStaticMesh: Built static mesh [0.69s] /Game/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A3.SM_Floor_Center_A3
+[2025.05.30-19.16.12:356][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiProps/Textures/T_CardReader_M.T_CardReader_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.12:416][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiProps/Textures/T_LampEmissive.T_LampEmissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.12:442][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiProps/Textures/T_Base_Diff.T_Base_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.12:509][978]LogTexture: Display: Building textures: /Game/add_ons/sci-fi-door__1_/source/sci-fi-door_BaseColor.sci-fi-door_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.12:672][978]LogTexture: Display: Building textures: /Game/add_ons/sci-fi-door__1_/source/sci-fi-door_Emessive.sci-fi-door_Emessive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.12:681][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiProps/Textures/T_CardReader_Diff.T_CardReader_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.12:871][978]LogTexture: Display: Building textures: /Game/add_ons/sci-fi-door__1_/source/sci-fi-door_Roughness.sci-fi-door_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.13:023][978]LogTexture: Display: Building textures: /Game/flat-portal-teleportation-pad/Flat_Portal_v2_0_03_unwrapped_blend_UV_Layout_01_edited_07.Flat_Portal_v2_0_03_unwrapped_blend_UV_Layout_01_edited_07 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.583323 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.13:036][978]LogTexture: Display: Building textures: /Game/Laboratory/Textures/T_2_level_1001_BaseColor.T_2_level_1001_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.13:369][978]LogTexture: Display: Building textures: /Game/Laboratory/Textures/T_2_level_1001_OcclusionRoughnessMetallic.T_2_level_1001_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.13:382][978]LogTexture: Display: Building textures: /Game/Laboratory/Textures/T_2_level_1001_Normal.T_2_level_1001_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 427.499988 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.13:403][978]LogTexture: Display: Building textures: /Game/Laboratory/Textures/T_00x-gigapixel.T_00x-gigapixel (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.13:424][978]LogTexture: Display: Building textures: /Game/Laboratory/Textures/T_normal.T_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 427.499988 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.14:102][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/Base/T_Base_Dirt_2.T_Base_Dirt_2 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.16:642][978]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 48% occupied, 27744 triangles, Ground__House_in_the_woods_project_
+[2025.05.30-19.16.16:957][978]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x98 sparse distance field, 1.3Mb total, 0.0Mb always loaded, 44% occupied, 772714 triangles, RockWall
+[2025.05.30-19.16.17:256][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/T_Hexagon_Norm.T_Hexagon_Norm (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.17:284][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/T_Wall_Detail_A_normals.T_Wall_Detail_A_normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 427.499988 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.17:296][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/T_Wall_Detail_A_ML.T_Wall_Detail_A_ML (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.17:416][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/T_Wall_Detail_A_Diff.T_Wall_Detail_A_Diff (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.17:527][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M.T_Trims_B_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.17:547][978]LogStaticMesh: Display: Building static mesh SM_FloorPanel_A_2 (Required Memory Estimate: 1.562099 MB)...
+[2025.05.30-19.16.17:592][978]LogStaticMesh: Built static mesh [0.05s] /Game/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2
+[2025.05.30-19.16.17:696][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff.T_Trims_B_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.17:862][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Trims_B_N_normals.T_Trims_B_N_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.17:998][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M_B.T_Trims_B_M_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.18:214][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff_B.T_Trims_B_Diff_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.18:294][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Ceiling_C_1_N_normals.T_Ceiling_C_1_N_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.18:295][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Ceiling_C_1_M.T_Ceiling_C_1_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.18:479][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Ceiling_C_1_Diff.T_Ceiling_C_1_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.18:750][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_norm.T_norm (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 427.499988 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.18:751][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_FloorPanel_A_M.T_FloorPanel_A_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.18:764][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_FloorPanel_A_2_M.T_FloorPanel_A_2_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.18:812][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_FloorPanel_A_Diff.T_FloorPanel_A_Diff (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.18:835][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_FloorPanel_A_2_Diff.T_FloorPanel_A_2_Diff (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.18:854][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Ceiling_C_2_M.T_Ceiling_C_2_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.18:922][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Ceiling_C_2_N_normals.T_Ceiling_C_2_N_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.19:096][978]LogWorld: UWorld::CleanupWorld for level, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-19.16.19:100][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-19.16.19:113][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Ceiling_C_2_Diff.T_Ceiling_C_2_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.19:140][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.30-19.16.19:159][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.30-19.16.19:217][978]LogAudio: Display: Audio Device (ID: 1) registered with world 'level'.
+[2025.05.30-19.16.19:217][978]LogChaosDD: Creating Chaos Debug Draw Scene for world level
+[2025.05.30-19.16.19:245][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Wall_A_M.T_Wall_A_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.19:289][978]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.30-19.16.19:321][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.30-19.16.19:351][978]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.30-19.16.19:351][978]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.408ms to complete.
+[2025.05.30-19.16.19:352][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Wall_A_N_normals.T_Wall_A_N_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.19:417][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Wall_A_Diff.T_Wall_A_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.19:557][978]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-19.16.19:557][978]LogContentValidation: Enabled validators:
+[2025.05.30-19.16.19:557][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-19.16.19:557][978]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-19.16.19:557][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-19.16.19:557][978]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-19.16.19:557][978]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-19.16.19:557][978]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-19.16.19:557][978]AssetCheck: /Game/SFX/Shoot Validating asset
+[2025.05.30-19.16.19:660][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Floor_Main_Diff.T_Hall_Floor_Main_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.19:701][978]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Floor_Main_M.T_Hall_Floor_Main_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.19:867][979]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Floor_Main_N_normals.T_Hall_Floor_Main_N_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.20:373][979]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_M_B.T_Trims_A_M_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.20:486][979]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_N_normals.T_Trims_A_N_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.20:522][979]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 351.276917
+[2025.05.30-19.16.20:649][987]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_Diff_B.T_Trims_A_Diff_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.20:720][991]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Floor_Sec_C_2_M.T_Hall_Floor_Sec_C_2_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.20:770][995]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_M.T_Pipes_A_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.20:817][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-19.16.20:817][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 351.563538, Update Interval: 328.988312
+[2025.05.30-19.16.20:891][  7]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Floor_Sec_C_2_N_normals.T_Hall_Floor_Sec_C_2_N_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.20:967][ 14]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_N_normals.T_Pipes_A_N_normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 427.499988 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.20:975][ 14]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Floor_Sec_C_2_Diff.T_Hall_Floor_Sec_C_2_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.21:096][ 21]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_Diff.T_Pipes_A_Diff (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.21:191][ 31]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_Diff.T_Hall_Light_Square_Diff (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.21:254][ 37]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_M.T_Trims_A_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.21:395][ 50]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_N_normals.T_Hall_Light_Square_N_normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 427.499988 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.21:396][ 50]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_M.T_Hall_Light_Square_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.21:396][ 50]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_EM.T_Hall_Light_Square_EM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.21:401][ 50]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_M.T_Hall_Wall_A_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.21:616][ 69]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_N_normals.T_Hall_Wall_A_N_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.21:628][ 70]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_B_M.T_Hall_Wall_B_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.21:707][ 74]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_Diff.T_Trims_A_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.22:019][104]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_Diff.T_Hall_Wall_A_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.22:207][123]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_B_N_normals.T_Hall_Wall_B_N_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.22:252][126]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_M.T_CeilingLight_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.22:269][127]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_B_Diff.T_Hall_Wall_B_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.22:557][153]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/T_Hexagon.T_Hexagon (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.22:603][157]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiProps/Textures/T_Trims_C_N_normals.T_Trims_C_N_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.22:625][158]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_N_normals.T_CeilingLight_N_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.22:707][163]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_Diff.T_CeilingLight_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.23:012][174]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/Base/T_Base.T_Base (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.23:028][174]LogPSOHitching: Encountered 50 PSO creation hitches so far (13 graphics, 37 compute). 0 of them were precached.
+[2025.05.30-19.16.23:166][175]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiProps/Textures/T_Trims_C_Diff.T_Trims_C_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.23:282][181]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/T_Trim_C_diffuse.T_Trim_C_diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.23:530][200]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/T_Hexagon_M.T_Hexagon_M (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.23:597][206]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/T_Trim_EdgeMask.T_Trim_EdgeMask (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.23:716][212]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_DefaultLight_S.T_DefaultLight_S (TFO_AutoDXT, 64x64 x1x1x1) (Required Memory Estimate: 1.645795 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.23:733][214]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_M.T_Trims_A_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.23:797][217]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/T_Trims_C_normals.T_Trims_C_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.23:906][227]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_normals.T_Trims_A_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.24:057][239]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_diff.T_Trims_A_diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.24:163][247]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_M.T_Hall_Door_L_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.24:215][252]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_N_normals.T_Hall_Door_L_N_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.24:424][269]LogTexture: Display: Building textures: /Game/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_Diff.T_Hall_Door_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.24:438][269]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_M.T_Ceiling_A_Buffer_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.24:612][282]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_N_normals.T_Ceiling_A_Buffer_N_normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.24:665][287]LogTexture: Display: Building textures: /Game/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_Diff.T_Ceiling_A_Buffer_Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.30-19.16.26:570][474]LogSlate: Window 'Message Log' being destroyed
+[2025.05.30-19.16.26:581][474]LogSlate: Window 'Message Log' being destroyed
+[2025.05.30-19.16.32:778][955]LogPSOHitching: Encountered 100 PSO creation hitches so far (37 graphics, 63 compute). 0 of them were precached.
+[2025.05.30-19.16.36:753][336]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.05.30-19.16.55:900][521]Cmd: SELECT NONE
+[2025.05.30-19.16.57:101][639]LogShaderCompilers: Display: ================================================
+[2025.05.30-19.16.57:101][639]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.30-19.16.57:101][639]LogShaderCompilers: Display: Total job queries 386, among them cache hits 19 (4.92%), DDC hits 169 (43.78%), Duplicates 24 (6.22%)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Tracking 343 distinct input hashes that result in 278 distinct outputs (81.05%)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: RAM used: 175.63 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Shaders Compiled: 174
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Jobs assigned 174, completed 174 (100%)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Time job spent in pending queue: average 9.61 s, longest 22.99 s
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Job execution time: average 3.54 s, max 20.98 s
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Job life time (pending + execution): average 13.15 s, max 24.99
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Shader code size: average 12.826 KiB, min 2.691 KiB, max 49.637 KiB
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.02 s
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Jobs were issued in 136 batches (only local compilation was used), average 1.28 jobs/batch
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Average processing rate: 6.95 jobs/sec
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Total thread time: 209.573 s
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Total thread preprocess time: 5.013 s
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Percentage time preprocessing: 2.39%
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Effective parallelization: 8.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display:          TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 6.97 sec, max 6.97 sec, min 6.97 sec)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display:        TBasePassCSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 6.63 sec, max 11.66 sec, min 1.61 sec)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 6.55 sec, max 11.58 sec, min 1.52 sec)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy (compiled    2 times, average 6.49 sec, max 11.16 sec, min 1.82 sec)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 6.36 sec, max 10.98 sec, min 1.73 sec)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 9.20% of total time (compiled    5 times, average 3.86 sec, max 11.49 sec, min 1.82 sec)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display:                                                 FLumenCardCS - 8.07% of total time (compiled    5 times, average 3.38 sec, max 10.71 sec, min 1.42 sec)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display:        TBasePassCSFCachedPointIndirectLightingPolicySkylight - 6.33% of total time (compiled    2 times, average 6.63 sec, max 11.66 sec, min 1.61 sec)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy - 6.25% of total time (compiled    2 times, average 6.55 sec, max 11.58 sec, min 1.52 sec)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy - 6.19% of total time (compiled    2 times, average 6.49 sec, max 11.16 sec, min 1.82 sec)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: === Material stats ===
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Materials Translated:    174
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Material Translation Only: 0.06 s (35%)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: Material Cache Hits: 7 (4%)
+[2025.05.30-19.16.57:102][639]LogShaderCompilers: Display: ================================================
+[2025.05.30-19.16.57:345][668]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.30-19.16.57:352][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.30-19.16.57:352][668]LogPlayLevel: Creating play world package: /Game/InfimaGames/FreeFPSTemplate/Harley/UEDPIE_0_level
+[2025.05.30-19.16.57:382][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029757s)
+[2025.05.30-19.16.57:382][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfimaGames/FreeFPSTemplate/Harley/level.level to /Game/InfimaGames/FreeFPSTemplate/Harley/UEDPIE_0_level.level (0.029785s)
+[2025.05.30-19.16.57:389][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.05.30-19.16.57:392][668]LogChaosDD: Creating Chaos Debug Draw Scene for world level
+[2025.05.30-19.16.57:393][668]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2025.05.30-19.16.57:394][668]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.05.30-19.16.57:394][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.30-19.16.57:394][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.30-19.16.57:394][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.30-19.16.57:394][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.30-19.16.57:394][668]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.30-19.16.57:394][668]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.30-19.16.57:394][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.30-19.16.57:394][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.30-19.16.57:394][668]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.30-19.16.57:394][668]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.30-19.16.57:394][668]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.30-19.16.57:396][668]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.30-19.16.57:498][668]LogAudioMixer: Display: Using Audio Hardware Device 耳麥式耳機 (CORSAIR VIRTUOSO Wireless Gaming Headset)
+[2025.05.30-19.16.57:498][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.30-19.16.57:498][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.30-19.16.57:499][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.30-19.16.57:499][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.05.30-19.16.57:499][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2025.05.30-19.16.57:501][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.05.30-19.16.57:501][668]LogInit: FAudioDevice initialized with ID 8.
+[2025.05.30-19.16.57:501][668]LogAudio: Display: Audio Device (ID: 8) registered with world 'level'.
+[2025.05.30-19.16.57:501][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.05.30-19.16.57:501][668]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.30-19.16.57:522][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-19.16.57:522][668]LogLoad: Game class is 'GM_FPS_C'
+[2025.05.30-19.16.57:539][668]LogWorld: Bringing World /Game/InfimaGames/FreeFPSTemplate/Harley/UEDPIE_0_level.level up for play (max tick rate 0) at 2025.05.31-05.16.57
+[2025.05.30-19.16.57:539][668]LogWorld: Bringing up level for play took: 0.016461
+[2025.05.30-19.16.57:542][668]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.05.30-19.16.57:543][668]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.30-19.16.57:543][668]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.30-19.16.57:550][668]PIE: Server logged in
+[2025.05.30-19.16.57:551][668]PIE: Play in editor total start time 0.199 seconds.
+[2025.05.30-19.16.57:560][668]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'BGM_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.05.30-19.17.44:795][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.30-19.17.44:795][ 38]LogWorld: BeginTearingDown for /Game/InfimaGames/FreeFPSTemplate/Harley/UEDPIE_0_level
+[2025.05.30-19.17.44:795][ 38]LogSlate: Window 'BababooeyProjectGunstride Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.30-19.17.44:801][ 38]LogWorld: UWorld::CleanupWorld for level, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-19.17.44:807][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-19.17.44:810][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.30-19.17.44:812][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-19.17.44:820][ 38]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.30-19.17.44:822][ 38]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.30-19.17.44:822][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.30-19.17.44:824][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.30-19.17.44:835][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.05.30-19.17.44:900][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.05.30-19.18.03:185][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.05.30-19.18.03:232][664]LogStall: Shutdown...
+[2025.05.30-19.18.03:232][664]LogStall: Shutdown complete.
+[2025.05.30-19.18.03:232][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '=======' is not a child of an existing mount point.
+[2025.05.30-19.18.03:271][664]LogSlate: Window 'BababooeyProjectGunstride - Unreal Editor' being destroyed
+[2025.05.30-19.18.03:272][664]LogWindowsTextInputMethodSystem: Activated input method: 繁體中文 (台灣) - Microsoft 速成 (TSF IME).
+[2025.05.30-19.18.03:332][664]Cmd: QUIT_EDITOR
+[2025.05.30-19.18.03:332][665]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.30-19.18.03:338][665]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.30-19.18.03:338][665]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.30-19.18.03:338][665]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.30-19.18.03:345][665]LogWorld: UWorld::CleanupWorld for level, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-19.18.03:345][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-19.18.03:359][665]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.30-19.18.03:360][665]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.30-19.18.03:362][665]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.30-19.18.03:369][665]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.30-19.18.03:369][665]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.30-19.18.03:369][665]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.30-19.18.03:689][665]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.30-19.18.03:689][665]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.30-19.18.03:689][665]LogAudio: Display: Audio Device unregistered from world 'level'.
+[2025.05.30-19.18.03:689][665]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.30-19.18.03:689][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.30-19.18.03:692][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.30-19.18.03:739][665]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.30-19.18.03:739][665]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.30-19.18.03:742][665]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.30-19.18.03:742][665]LogExit: Preparing to exit.
+[2025.05.30-19.18.03:755][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.30-19.18.04:101][665]LogEditorDataStorage: Deinitializing
+[2025.05.30-19.18.04:199][665]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.30-19.18.04:211][665]LogExit: Editor shut down
+[2025.05.30-19.18.04:213][665]LogExit: Transaction tracking system shut down
+[2025.05.30-19.18.04:277][665]LogExit: Object subsystem successfully closed.
+[2025.05.30-19.18.04:283][665]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.30-19.18.05:003][665]LogMemoryProfiler: Shutdown
+[2025.05.30-19.18.05:003][665]LogNetworkingProfiler: Shutdown
+[2025.05.30-19.18.05:003][665]LoadingProfiler: Shutdown
+[2025.05.30-19.18.05:003][665]LogTimingProfiler: Shutdown
+[2025.05.30-19.18.05:312][665]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.30-19.18.05:336][665]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.30-19.18.05:336][665]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6C2C8620-4EF3-D81F-9F55-72A3DAC68BBE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=9595c21c4e39c64c2a7586b10f1b60bf%7C904296cae09d4d8b8c7b5598a892d408%7C8f6d4478-aabc-4f9e-a60f-4fc93285b994&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.30-19.18.06:392][665]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.30-19.18.06:392][665]RenderDocPlugin: plugin has been unloaded.
+[2025.05.30-19.18.06:392][665]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.30-19.18.06:392][665]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.30-19.18.06:392][665]LogXGEController: Cleaning working directory: C:/Users/Hohei/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.05.30-19.18.06:404][665]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.30-19.18.06:404][665]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.30-19.18.06:404][665]LogPakFile: Destroying PakPlatformFile
+[2025.05.30-19.18.06:589][665]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.30-19.18.06:663][665]LogExit: Exiting.
+[2025.05.30-19.18.06:701][665]Log file closed, 05/31/25 05:18:06
