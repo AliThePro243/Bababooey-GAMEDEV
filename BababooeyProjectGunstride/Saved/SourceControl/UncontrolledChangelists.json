@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Jump_Cue.uasset",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Walk_Cue.uasset",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/running-14658_Cue.uasset",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Shoot_Cue.uasset",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Shoot.uasset",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/BP_Character.uasset",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/reload.uasset",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/reload_Cue.uasset",
+				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/User-Inteface/PauseMenu/WB_PauseMenu.uasset",
 				"C:/Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Harley/level.umap",
 				"C:/Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/StarterBundle/ModularScifiProps/Materials/M_Base_3C.uasset",
 				"C:/Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/Checkpoint/BP_CheckPoints.uasset",
@@ -13,15 +22,7 @@
 				"C:/Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/BP_Character.uasset",
 				"C:/Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Maps/Ai-TEST.umap",
 				"C:/Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/SaveGame/BP_SaveGame.uasset",
-				"C:/Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/User-Inteface/MainMenu/WP-MainMenu.uasset",
-				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Jump_Cue.uasset",
-				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Walk_Cue.uasset",
-				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/running-14658_Cue.uasset",
-				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Shoot_Cue.uasset",
-				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/Shoot.uasset",
-				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/Core/BP_Character.uasset",
-				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/reload.uasset",
-				"C:/Users/Hohei/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/SFX/reload_Cue.uasset"
+				"C:/Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/User-Inteface/MainMenu/WP-MainMenu.uasset"
 			]
 		}
 	]
