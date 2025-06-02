@@ -1368,3 +1368,78 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.02-16.03.59:285][ 88]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.06.02-16.03.59:583][106]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-juWXOVeVQkOoDr-hsxlnTw-f4e0kIcbX0aGl0bkU50N3w]
 [2025.06.02-16.04.01:080][188]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/' took 5.46s
+[2025.06.02-16.04.40:951][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.06.02-16.04.40:953][698]LogStreaming: Display: FlushAsyncLoading(338): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-16.04.41:191][698]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu-Level
+[2025.06.02-16.04.41:194][698]LogAssetEditorSubsystem: Opening Asset editor for World /Game/InfimaGames/FreeFPSTemplate/User-Inteface/MainMenu/MainMenu-Level.MainMenu-Level
+[2025.06.02-16.04.41:222][698]LogWorld: UWorld::CleanupWorld for L_Playground, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-16.04.41:222][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-16.04.41:263][698]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.02-16.04.41:269][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.06.02-16.04.41:281][698]LogWorld: UWorld::CleanupWorld for MainMenu-Level, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-16.04.41:283][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-16.04.41:294][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.06.02-16.04.41:315][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.06.02-16.04.41:341][698]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu-Level'.
+[2025.06.02-16.04.41:341][698]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu-Level
+[2025.06.02-16.04.41:374][698]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.02-16.04.41:401][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.06.02-16.04.41:409][698]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.02-16.04.41:409][698]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2025.06.02-16.04.41:619][700]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.06.02-16.04.45:085][887]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.06.02-16.04.45:100][888]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.06.02-16.04.45:293][891]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.06.02-16.04.45:427][893]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.06.02-16.04.45:453][894]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.06.02-16.04.45:476][895]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.06.02-16.04.45:485][895]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.06.02-16.04.45:485][895]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Character_C already exists. Remove duplicates from the animation graph for this class.
+[2025.06.02-16.04.45:642][899]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/InfimaGames/FreeFPSTemplate/User-Inteface/MainMenu/MainMenu-Level.MainMenu-Level:PersistentLevel.MainMenu-Level
+[2025.06.02-16.04.45:643][899]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.06.02-16.04.45:682][899]LogStreaming: Display: FlushAsyncLoading(340): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-16.04.45:963][899]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.02-16.04.46:932][899]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.06.02-16.04.47:057][902]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.06.02-16.04.47:173][903]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.06.02-16.04.47:253][905]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.06.02-16.04.47:304][906]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.06.02-16.05.12:471][192]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.02-16.05.30:362][150]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.02-16.05.31:900][238]LogDerivedDataCache: C:/Users/thema/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.02-16.05.39:390][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.06.02-16.05.39:958][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.02-16.05.40:063][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.06.02-16.05.40:077][708]LogSavePackage: Moving output files for package: /Game/InfimaGames/FreeFPSTemplate/User-Inteface/MainMenu/MainMenu-Level
+[2025.06.02-16.05.40:078][708]LogSavePackage: Moving '../../../../../../Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/MainMenu-Level829186D447645F95B893AB8B412EF760.tmp' to '../../../../../../Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/User-Inteface/MainMenu/MainMenu-Level.umap'
+[2025.06.02-16.05.40:090][708]LogFileHelpers: Saving map 'MainMenu-Level' took 0.076
+[2025.06.02-16.05.40:113][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.306 ms
+[2025.06.02-16.05.40:174][708]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.02-16.05.40:175][708]LogContentValidation: Enabled validators:
+[2025.06.02-16.05.40:175][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.02-16.05.40:175][708]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.02-16.05.40:175][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.02-16.05.40:175][708]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.02-16.05.40:175][708]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.02-16.05.40:175][708]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.02-16.05.40:175][708]AssetCheck: /Game/InfimaGames/FreeFPSTemplate/User-Inteface/MainMenu/MainMenu-Level Validating asset
+[2025.06.02-16.05.51:991][325]LogSlate: External Image Picker: DecompressImage failed
+[2025.06.02-16.05.52:286][326]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.06.02-16.07.00:508][143]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.02-16.07.41:097][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.02-16.07.41:257][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.06.02-16.07.41:279][113]LogSavePackage: Moving output files for package: /Game/InfimaGames/FreeFPSTemplate/User-Inteface/MainMenu/MainMenu-Level
+[2025.06.02-16.07.41:280][113]LogSavePackage: Moving '../../../../../../Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Saved/MainMenu-Level0086FB7E4CB2C39CA59E56AF967E98A5.tmp' to '../../../../../../Users/thema/OneDrive/Documents/GitHub/Bababooey-GAMEDEV/BababooeyProjectGunstride/Content/InfimaGames/FreeFPSTemplate/User-Inteface/MainMenu/MainMenu-Level.umap'
+[2025.06.02-16.07.41:293][113]LogFileHelpers: Saving map 'MainMenu-Level' took 0.130
+[2025.06.02-16.07.41:317][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 219.728 ms (total: 374.034 ms)
+[2025.06.02-16.07.41:374][113]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.02-16.07.41:374][113]LogContentValidation: Enabled validators:
+[2025.06.02-16.07.41:375][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.02-16.07.41:375][113]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.02-16.07.41:375][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.02-16.07.41:375][113]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.02-16.07.41:375][113]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.02-16.07.41:375][113]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.02-16.07.41:375][113]AssetCheck: /Game/InfimaGames/FreeFPSTemplate/User-Inteface/MainMenu/MainMenu-Level Validating asset
+[2025.06.02-16.07.43:878][250]LogConfig: Display: Read in platform Android ini files took 0.02 seconds
+[2025.06.02-16.07.44:824][300]LogConfig: Display: Read in platform Linux ini files took 0.04 seconds
