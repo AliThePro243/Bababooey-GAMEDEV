@@ -1,0 +1,5 @@
+Breadcrumbs 'Parallel'
+ - GaussianBlur
+ - SlateUI Title = BababooeyProjectGunstride Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)
+ - FRDGBuilder::Execute
+ - Frame 645116
